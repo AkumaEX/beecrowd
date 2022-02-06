@@ -1,0 +1,42 @@
+services:
+  dart:
+    image: dart
+    working_dir: /home/dart
+    volumes:
+      - .:/home/dart
+    command: /bin/bash
+  
+  gcc:
+    image: gcc
+    working_dir: /home/gcc
+    volumes:
+      - .:/home/gcc
+    command: /bin/bash
+
+  java:
+    image: java
+    working_dir: /home/java
+    volumes:
+      - .:/home/java
+    command: /bin/bash
+
+  node:
+    image: node
+    working_dir: /home/node
+    volumes:
+      - .:/home/node
+    command: /bin/bash
+  
+  python:
+    image: python
+    working_dir: /home/python
+    volumes:
+      - .:/home/python
+    command: /bin/bash
+
+  ruby:
+    image: ruby
+    working_dir: /home/ruby
+    volumes:
+      - .:/home/ruby
+    command: /bin/bash
