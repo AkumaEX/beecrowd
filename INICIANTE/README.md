@@ -11,3 +11,5 @@ Problemas básicos para quem está iniciando na programação...
 [1003](/INICIANTE/1003/) | [Soma Simples](https://www.beecrowd.com.br/repository/UOJ_1003.html)
 
 [1004](/INICIANTE/1004/) | [Produto Simples](https://www.beecrowd.com.br/repository/UOJ_1004.html)
+
+[1005](/INICIANTE/1005/) | [Média Simples](https://www.beecrowd.com.br/repository/UOJ_1005.html)
