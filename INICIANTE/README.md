@@ -15,3 +15,5 @@ Problemas básicos para quem está iniciando na programação...
 [1005](/INICIANTE/1005/) | [Média 1](https://www.beecrowd.com.br/repository/UOJ_1005.html)
 
 [1006](/INICIANTE/1006/) | [Média 2](https://www.beecrowd.com.br/repository/UOJ_1006.html)
+
+[1007](/INICIANTE/1007/) | [Diferença](https://www.beecrowd.com.br/repository/UOJ_1007.html)
