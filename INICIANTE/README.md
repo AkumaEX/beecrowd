@@ -1,8 +1,8 @@
 [beecrowd](https://www.beecrowd.com.br/)
 # 1 INICIANTE
-Problemas básicos para quem está iniciando na programação...
+Problemas básicos para quem está iniciando na programação ...
 
-[1000](/INICIANTE/1000/) | [Hello World!](https://www.beecrowd.com.br/repository/UOJ_1000.html)
+[1000](/INICIANTE/1000/) | [Hello World!](https://www.beecrowd.com.br/repoMédia 2sitory/UOJ_1000.html)
 
 [1001](/INICIANTE/1001/) | [Extremamente Básico](https://www.beecrowd.com.br/repository/UOJ_1001.html)
 
@@ -17,3 +17,5 @@ Problemas básicos para quem está iniciando na programação...
 [1006](/INICIANTE/1006/) | [Média 2](https://www.beecrowd.com.br/repository/UOJ_1006.html)
 
 [1007](/INICIANTE/1007/) | [Diferença](https://www.beecrowd.com.br/repository/UOJ_1007.html)
+
+[1008](/INICIANTE/1008/) | [Salário](https://www.beecrowd.com.br/repository/UOJ_1008.html)
