@@ -19,3 +19,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1007](/INICIANTE/1007/) | [Diferença](https://www.beecrowd.com.br/repository/UOJ_1007.html)
 
 [1008](/INICIANTE/1008/) | [Salário](https://www.beecrowd.com.br/repository/UOJ_1008.html)
+
+[1009](/INICIANTE/1009/) | [Salário com Bônus](https://www.beecrowd.com.br/repository/UOJ_1009.html)
