@@ -14,7 +14,7 @@ services:
     command: /bin/bash
 
   java:
-    image: java
+    image: openjdk
     working_dir: /home/java
     volumes:
       - .:/home/java
