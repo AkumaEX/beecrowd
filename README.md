@@ -1,5 +1,5 @@
 # [beecrowd](https://www.beecrowd.com.br)
-## Solução dos exercícios
+## Soluções dos exercícios
 
 [1 INICIANTE](/INICIANTE/)
 
@@ -8,5 +8,7 @@
 [3 STRINGS](/STRINGS/)
 
 [4 ESTRUTURAS E BIBLIOTECAS](/ESTRUTURAS/)
+
+[5 MATEMÁTICA](/MATEMÁTICA/)
 
 [6 PARADIGMAS](/PARADIGMAS/)
