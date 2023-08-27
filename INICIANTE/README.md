@@ -25,3 +25,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1010](/INICIANTE/1010/) | [Cálculo Simples](https://www.beecrowd.com.br/repository/UOJ_1010.html)
 
 [1011](/INICIANTE/1011/) | [Esfera](https://www.beecrowd.com.br/repository/UOJ_1011.html)
+
+[1012](/INICIANTE/1012/) | [Área](https://www.beecrowd.com.br/repository/UOJ_1012.html)
