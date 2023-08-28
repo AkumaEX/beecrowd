@@ -1,3 +1,4 @@
 .vscode
+.ruby-lsp
 *.class
 main
