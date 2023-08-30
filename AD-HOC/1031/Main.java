@@ -5,15 +5,14 @@ public class Main {
 
     static ArrayList<Integer> getRegions(int n) {
         ArrayList<Integer> regions = new ArrayList<Integer>();
-        for (int i = 1; i <= n; regions.add(i), i++)
-            ;
+        for (int i = 1; i <= n; regions.add(i), i++);
         return regions;
     }
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
-        while (n != 0) {
+        int n;
+        while ((n = scanner.nextInt()) != 0) {
             for (int m = 1; m > 0; m++) {
                 ArrayList<Integer> regions = getRegions(n);
                 int selected = 0;
@@ -28,7 +27,6 @@ public class Main {
                     break;
                 }
             }
-            n = scanner.nextInt();
         }
         scanner.close();
     }

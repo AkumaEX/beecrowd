@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+public class Main {
     
     static int survivor(int n, int k) {
         if (n == 1)

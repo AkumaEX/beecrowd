@@ -7,3 +7,5 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 [1030](/AD-HOC/1030/) | [A Lenda de Flavious Josephus](https://www.beecrowd.com.br/repository/UOJ_1030.html)
 
 [1031](/AD-HOC/1031/) | [Crise de Energia](https://www.beecrowd.com.br/repository/UOJ_1031.html)
+
+[1032](/AD-HOC/1032/) | [O Primo de Josephus](https://www.beecrowd.com.br/repository/UOJ_1032.html)
