@@ -54,7 +54,8 @@ public class Main {
                     result = division(n1, d1, n2, d2);
             }
             simple = simplify(result.get("nl"), result.get("dl"));
-            System.out.printf("%d/%d = %d/%d\n", result.get("nl"), result.get("dl"), simple.get("nr"), simple.get("dr"));
+            System.out.printf("%d/%d = %d/%d\n", result.get("nl"), result.get("dl"), simple.get("nr"),
+                    simple.get("dr"));
         }
         scanner.close();
     }
