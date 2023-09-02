@@ -1,5 +1,5 @@
 # [beecrowd](https://www.beecrowd.com.br)
-## Soluções dos exercícios
+## Soluções dos Problemas
 
 [1 INICIANTE](/INICIANTE/)
 

@@ -6,4 +6,6 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1093](/MATEMÁTICA/1093/) | [Vampiros](https://www.beecrowd.com.br/repository/UOJ_1093.html)
 
+[1138](/MATEMÁTICA/1138/) | [Contagem de Dígitos](https://www.beecrowd.com.br/repository/UOJ_1138.html)
+
 [1161](/MATEMÁTICA/1161/) | [Soma de Fatoriais](https://www.beecrowd.com.br/repository/UOJ_1161.html)

@@ -2,4 +2,7 @@
 # 6 PARADIGMAS
 Programação Dinâmica, Busca Binária, Gulosos, Backtracking...
 
-[1027](/PARADIGMAS/1027) | [Onda Crítica](https://www.beecrowd.com.br/repository/UOJ_1027.html)
+[1027](/PARADIGMAS/1027/) | [Onda Crítica](https://www.beecrowd.com.br/repository/UOJ_1027.html)
+
+[1029](/PARADIGMAS/1029/) | [Fibonacci, Quantas Chamadas?](https://www.beecrowd.com.br/repository/UOJ_1029.html)
+
