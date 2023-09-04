@@ -31,3 +31,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1013](/INICIANTE/1013/) | [O Maior](https://www.beecrowd.com.br/repository/1013.html)
 
 [1014](/INICIANTE/1014/) | [Consumo](https://www.beecrowd.com.br/repository/UOJ_1014.html)
+
+[1015](/INICIANTE/1015/) | [Distância Entre Dois Pontos](https://www.beecrowd.com.br/repository/UOJ_1015.html)
