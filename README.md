@@ -1,20 +1,20 @@
 # [beecrowd](https://www.beecrowd.com.br)
 ## Soluções dos Problemas
 
-[1 INICIANTE](/INICIANTE/)
+[1 INICIANTE](/INICIANTE/) Problemas básicos para quem está iniciando na programação...
 
-[2 AD-HOC](/AD-HOC/) 
+[2 AD-HOC](/AD-HOC/) Problemas de Simulação, Datas e Ad-Hoc em geral...
 
-[3 STRINGS](/STRINGS/)
+[3 STRINGS](/STRINGS/) Palíndromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings
 
-[4 ESTRUTURAS E BIBLIOTECAS](/ESTRUTURAS/)
+[4 ESTRUTURAS E BIBLIOTECAS](/ESTRUTURAS/) Filas, Pilhas, Ordenação, Mapas...
 
-[5 MATEMÁTICA](/MATEMÁTICA/)
+[5 MATEMÁTICA](/MATEMÁTICA/) Sistemas Numéricos, Numeros Primos, BigInteger...
 
-[6 PARADIGMAS](/PARADIGMAS/)
+[6 PARADIGMAS](/PARADIGMAS/) Programação Dinâmica, Busca Binária, Gulosos, Backtracking...
 
-[7 GRAFOS]()
+[7 GRAFOS]() Flood Fill, MST, SSSP, DAG, Fluxo Máximo, Árvores...
 
-[8 GEOMETRIA COMPUTACIONAL](/GEOMETRIA/)
+[8 GEOMETRIA COMPUTACIONAL](/GEOMETRIA/) Pontos e Linhas, Polígonos...
 
-[9 SQL]()
+[9 SQL]() Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
