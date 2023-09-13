@@ -10,4 +10,6 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1032](/AD-HOC/1032/) | [O Primo de Josephus](https://www.beecrowd.com.br/repository/UOJ_1032.html)
 
-[1091](/AD-HOC/1091/) | [Divisão da Nilogônia](https://www.beecrowd.com.br/repository/UOJ_1091.html)
+[1089](/AD-HOC/1089/) | [Loop Musical](https://www.beecrowd.com.br/repository/UOJ_1089.html)
+
+[1091](/AD-HOC/1091/) | [Divisão da Nlogônia](https://www.beecrowd.com.br/repository/UOJ_1091.html)
