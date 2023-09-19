@@ -20,4 +20,6 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1104](/AD-HOC/1104/) | [Troca de Cartas](https://www.beecrowd.com.br/repository/UOJ_1104.html)
 
+[1125](/AD-HOC/1125/) | [Fórmula 1](https://www.beecrowd.com.br/repository/UOJ_1125.html)
+
 [1129](/AD-HOC/1129/) | [Leitura Óptica](https://www.beecrowd.com.br/repository/UOJ_1129.html)
