@@ -24,6 +24,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1129](/AD-HOC/1129/) | [Leitura Óptica](https://www.beecrowd.com.br/repository/UOJ_1129.html)
 
+[1171](/AD-HOC/1171/) | [Frequência de Números](https://www.beecrowd.com.br/repository/UOJ_1171.html)
+
 [1192](/AD-HOC/1192/) | [O jogo Matemático de Paula](https://www.beecrowd.com.br/repository/UOJ_1192.html)
 
 [1250](/AD-HOC/1250/) | [KiloMan](https://www.beecrowd.com.br/repository/UOJ_1250.html)
