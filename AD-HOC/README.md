@@ -28,4 +28,6 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1192](/AD-HOC/1192/) | [O jogo Matemático de Paula](https://www.beecrowd.com.br/repository/UOJ_1192.html)
 
+[1225](/AD-HOC/1225/) | [Coral Perfeito](https://www.beecrowd.com.br/repository/UOJ_1225.html)
+
 [1250](/AD-HOC/1250/) | [KiloMan](https://www.beecrowd.com.br/repository/UOJ_1250.html)
