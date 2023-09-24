@@ -31,3 +31,5 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 [1225](/AD-HOC/1225/) | [Coral Perfeito](https://www.beecrowd.com.br/repository/UOJ_1225.html)
 
 [1250](/AD-HOC/1250/) | [KiloMan](https://www.beecrowd.com.br/repository/UOJ_1250.html)
+
+[1300](/AD-HOC/1300/) | [Horas e Minutos](https://www.beecrowd.com.br/repository/UOJ_1300.html)
