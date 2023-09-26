@@ -32,6 +32,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1250](/AD-HOC/1250/) | [KiloMan](https://www.beecrowd.com.br/repository/UOJ_1250.html)
 
+[1228](/AD-HOC/1228/) | [Grid de Largada](https://www.beecrowd.com.br/repository/UOJ_1228.html)
+
 [1300](/AD-HOC/1300/) | [Horas e Minutos](https://www.beecrowd.com.br/repository/UOJ_1300.html)
 
 [1329](/AD-HOC/1329/) | [Cara ou Coroa](https://www.beecrowd.com.br/repository/UOJ_1329.html)
