@@ -38,4 +38,6 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1300](/AD-HOC/1300/) | [Horas e Minutos](https://www.beecrowd.com.br/repository/UOJ_1300.html)
 
+[1318](/AD-HOC/1318/) | [Bilhetes Falsos](https://www.beecrowd.com.br/repository/UOJ_1318.html)
+
 [1329](/AD-HOC/1329/) | [Cara ou Coroa](https://www.beecrowd.com.br/repository/UOJ_1329.html)
