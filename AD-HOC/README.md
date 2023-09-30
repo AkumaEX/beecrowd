@@ -41,3 +41,5 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 [1318](/AD-HOC/1318/) | [Bilhetes Falsos](https://www.beecrowd.com.br/repository/UOJ_1318.html)
 
 [1329](/AD-HOC/1329/) | [Cara ou Coroa](https://www.beecrowd.com.br/repository/UOJ_1329.html)
+
+[1357](/AD-HOC/1357/) | [Em Braille](https://www.beecrowd.com.br/repository/UOJ_1357.html)
