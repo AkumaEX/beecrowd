@@ -43,3 +43,5 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 [1329](/AD-HOC/1329/) | [Cara ou Coroa](https://www.beecrowd.com.br/repository/UOJ_1329.html)
 
 [1357](/AD-HOC/1357/) | [Em Braille](https://www.beecrowd.com.br/repository/UOJ_1357.html)
+
+[1366](/AD-HOC/1366/) | [Jogo de Varetas](https://www.beecrowd.com.br/repository/UOJ_1366.html)
