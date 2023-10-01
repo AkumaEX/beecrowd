@@ -45,3 +45,5 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 [1357](/AD-HOC/1357/) | [Em Braille](https://www.beecrowd.com.br/repository/UOJ_1357.html)
 
 [1366](/AD-HOC/1366/) | [Jogo de Varetas](https://www.beecrowd.com.br/repository/UOJ_1366.html)
+
+[1379](/AD-HOC/1379/) | [Problema com Mediana e Média](https://www.beecrowd.com.br/repository/UOJ_1379.html)
