@@ -49,3 +49,6 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 [1379](/AD-HOC/1379/) | [Problema com Mediana e Média](https://www.beecrowd.com.br/repository/UOJ_1379.html)
 
 [1387](/AD-HOC/1387/) | [Og](https://www.beecrowd.com.br/repository/UOJ_1387.html)
+
+[1397](/AD-HOC/1397/) | [Jogo do Maior](https://www.beecrowd.com.br/repository/UOJ_1397.html)
+
