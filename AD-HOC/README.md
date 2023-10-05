@@ -52,3 +52,5 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1397](/AD-HOC/1397/) | [Jogo do Maior](https://www.beecrowd.com.br/repository/UOJ_1397.html)
 
+[1546](/AD-HOC/1546/) | [Feedback](https://www.beecrowd.com.br/repository/UOJ_1546.html)
+
