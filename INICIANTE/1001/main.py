@@ -1,4 +1,4 @@
-A = int(input())
-B = int(input())
-X = A + B
-print('X = %d' % X)
+a = int(input())
+b = int(input())
+x = a + b
+print(f'X = {x}')

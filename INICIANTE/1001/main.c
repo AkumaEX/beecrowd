@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    int A, B, X;
-    scanf("%d%d", &A, &B);
-    X = A + B;
-    printf("X = %d\n", X);
+    int a, b;
+    scanf("%d%d", &a, &b);
+    int x = a + b;
+    printf("X = %d\n", x);
     return 0;
 }
