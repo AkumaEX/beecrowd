@@ -52,6 +52,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1397](/AD-HOC/1397/) | [Jogo do Maior](https://www.beecrowd.com.br/repository/UOJ_1397.html)
 
+[1426](/AD-HOC/1426/) | [Coloque Tijolos na Parede](https://www.beecrowd.com.br/repository/UOJ_1426.html)
+
 [1428](/AD-HOC/1428/) | [Procurando Nessy](https://www.beecrowd.com.br/repository/UOJ_1428.html)
 
 [1437](/AD-HOC/1437/) | [Esquerda, Volver!](https://www.beecrowd.com.br/repository/UOJ_1437.html)
