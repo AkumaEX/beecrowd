@@ -13,13 +13,13 @@ public class Main {
 
     static int[][] solveBaseValues(int[][] matrix) {
         // i is the index of the four base triangles
-        for (int i = 0; i < 7; i += 2) {
+        for (int i = 0; i < 7; i += 2)
             matrix[8][i + 1] = (matrix[6][i] - matrix[8][i] - matrix[8][i + 2]) / 2;
-        }
         return matrix;
     }
 
     static int[][] fillAllValues(int[][] matrix) {
+        // from line 7 to the top
         for (int line = 7; line >= 0; line--)
             for (int i = 0; i <= line; i++)
                 matrix[line][i] = matrix[line + 1][i] + matrix[line + 1][i + 1];
