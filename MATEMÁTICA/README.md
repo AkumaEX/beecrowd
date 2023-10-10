@@ -11,3 +11,6 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 [1161](/MATEMÁTICA/1161/) | [Soma de Fatoriais](https://www.beecrowd.com.br/repository/UOJ_1161.html)
 
 [1169](/MATEMÁTICA/1169/) | [Trigo no Tabuleiro](https://www.beecrowd.com.br/repository/UOJ_1169.html)
+
+[1197](/MATEMÁTICA/1197/) | [Volta à Faculdade de Física](https://www.beecrowd.com.br/repository/UOJ_1197.html)
+
