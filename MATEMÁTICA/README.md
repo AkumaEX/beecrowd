@@ -14,3 +14,4 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1197](/MATEMÁTICA/1197/) | [Volta à Faculdade de Física](https://www.beecrowd.com.br/repository/UOJ_1197.html)
 
+[1240](/MATEMÁTICA/1240/) | [Encaixa ou Não I](https://www.beecrowd.com.br/repository/UOJ_1240.html)
