@@ -12,6 +12,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1169](/MATEMÁTICA/1169/) | [Trigo no Tabuleiro](https://www.beecrowd.com.br/repository/UOJ_1169.html)
 
+[1170](/MATEMÁTICA/1170/) | [Blobs](https://www.beecrowd.com.br/repository/UOJ_1170.html)
+
 [1197](/MATEMÁTICA/1197/) | [Volta à Faculdade de Física](https://www.beecrowd.com.br/repository/UOJ_1197.html)
 
 [1240](/MATEMÁTICA/1240/) | [Encaixa ou Não I](https://www.beecrowd.com.br/repository/UOJ_1240.html)
