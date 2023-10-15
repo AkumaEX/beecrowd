@@ -28,7 +28,7 @@ Problemas básicos para quem está iniciando na programação ...
 
 [1012](/INICIANTE/1012/) | [Área](https://www.beecrowd.com.br/repository/UOJ_1012.html)
 
-[1013](/INICIANTE/1013/) | [O Maior](https://www.beecrowd.com.br/repository/1013.html)
+[1013](/INICIANTE/1013/) | [O Maior](https://www.beecrowd.com.br/repository/UOJ_1013.html)
 
 [1014](/INICIANTE/1014/) | [Consumo](https://www.beecrowd.com.br/repository/UOJ_1014.html)
 
