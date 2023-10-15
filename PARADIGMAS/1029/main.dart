@@ -2,7 +2,7 @@ import 'dart:io';
 
 int fibonacci(int n, Map<int, int> lookup) {
   if (n < 2) return n;
-  if (lookup[n] == null) {
+  if (!lookup.containsKey(n)) {
     lookup[n] = fibonacci(n - 1, lookup) + fibonacci(n - 2, lookup);
   }
   return lookup[n]!;

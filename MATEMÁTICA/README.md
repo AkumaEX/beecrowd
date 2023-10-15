@@ -19,3 +19,5 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 [1240](/MATEMÁTICA/1240/) | [Encaixa ou Não I](https://www.beecrowd.com.br/repository/UOJ_1240.html)
 
 [1247](/MATEMÁTICA/1247/) | [Guarda Costeira](https://www.beecrowd.com.br/repository/UOJ_1247.html)
+
+[1323](/MATEMÁTICA/1323/) | [Feynman](https://www.beecrowd.com.br/repository/UOJ_1323.html)
