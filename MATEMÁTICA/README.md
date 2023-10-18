@@ -25,3 +25,5 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 [1323](/MATEMÁTICA/1323/) | [Feynman](https://www.beecrowd.com.br/repository/UOJ_1323.html)
 
 [1429](/MATEMÁTICA/1429/) | [Fatorial de Novo!](https://www.beecrowd.com.br/repository/UOJ_1429.html)
+
+[1555](/MATEMÁTICA/1555/) | [Funções](https://www.beecrowd.com.br/repository/UOJ_1555.html)
