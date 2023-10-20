@@ -1,4 +1,5 @@
 [beecrowd](https://www.beecrowd.com.br/)
+
 # 3 STRINGS
 Palíndromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings
 
@@ -14,3 +15,4 @@ Palíndromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings
 
 [1239](/STRINGS/1239/) | [Atalhos Bloggo](https://www.beecrowd.com.br/repository/UOJ_1239.html)
 
+[1241](/STRINGS/1241/) | [Encaixa ou Não II](https://www.beecrowd.com.br/repository/UOJ_1241.html)
