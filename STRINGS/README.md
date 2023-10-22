@@ -16,3 +16,5 @@ Palíndromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings
 [1239](/STRINGS/1239/) | [Atalhos Bloggo](https://www.beecrowd.com.br/repository/UOJ_1239.html)
 
 [1241](/STRINGS/1241/) | [Encaixa ou Não II](https://www.beecrowd.com.br/repository/UOJ_1241.html)
+
+[1248](/STRINGS/1248/) | [Plano de Dieta](https://www.beecrowd.com.br/repository/UOJ_1248_en.html)
