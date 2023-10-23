@@ -1,15 +1,16 @@
+import 'dart:collection';
 import 'dart:io';
 
-List<List<int>> getCards(List<int> deck) {
-  List<int> discarded = [];
+List<ListQueue<int>> getCards(ListQueue<int> deck) {
+  ListQueue<int> discarded = ListQueue<int>();
   while (deck.length > 1) {
-    discarded.add(deck.removeAt(0));
-    deck.add(deck.removeAt(0));
+    discarded.addLast(deck.removeFirst());
+    deck.addLast(deck.removeFirst());
   }
   return [discarded, deck];
 }
 
-void printFormatted(List discarded, List remaining) {
+void printFormatted(ListQueue discarded, ListQueue remaining) {
   print('Discarded cards: ${discarded.join(', ')}');
   print('Remaining card: ${remaining.first}');
 }
@@ -17,7 +18,7 @@ void printFormatted(List discarded, List remaining) {
 void main() {
   int n;
   while ((n = int.parse(stdin.readLineSync()!)) > 0) {
-    List<int> deck = List<int>.generate(n, (i) => i + 1);
+    ListQueue<int> deck = ListQueue<int>()..addAll(List.generate(n, (i) => i + 1));
     var [discarded, remaining] = getCards(deck);
     printFormatted(discarded, remaining);
   }

@@ -1,17 +1,21 @@
+from collections import deque
+
+
 def get_cards(deck):
-    discarded = []
+    discarded = deque()
     while len(deck) > 1:
-        discarded.append(deck.pop(0))
-        deck.append(deck.pop(0))
+        discarded.append(deck.popleft())
+        deck.rotate(-1)
     return discarded, deck
 
 
 def print_formatted(discarded, remaining):
-    print(f'Discarded cards: {", ".join(map(str, discarded))}')
-    print(f'Remaining card: {remaining[0]}')
+    print('Discarded cards: ', end='')
+    print(*discarded, sep=', ')
+    print('Remaining card:', remaining.pop())
 
 
 while (n := int(input())):
-    deck = list(range(1, n+1))
+    deck = deque(range(1, n+1))
     discarded, remaining = get_cards(deck)
     print_formatted(discarded, remaining)
