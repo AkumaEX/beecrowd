@@ -6,4 +6,4 @@
 
 ### Problemas de Implementação
 
-- Implementação de Filas em `Python` (deque e Queue) e `Ruby` (Queue) possuem desempenho pior do que listas simples e resultam em **Time limit exceeded** para este problema.
+- Implementação de fila em `Ruby` (Queue) possui desempenho pior do que listas simples e resulta em **Time limit exceeded** para este problema. Já `Javascript` não possui implementação nativa de fila.
