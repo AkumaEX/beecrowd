@@ -14,3 +14,5 @@ Filas, Pilhas, Ordenação, Mapas...
 [1259](/ESTRUTURAS/1259/) | [Pares e Ímpares](https://www.beecrowd.com.br/repository/UOJ_1259.html)
 
 [1261](/ESTRUTURAS/1261/) | [Pontos de Feno](https://www.beecrowd.com.br/repository/UOJ_1261.html)
+
+[1548](/ESTRUTURAS/1548/) | [Fila do Recreio](https://www.beecrowd.com.br/repository/UOJ_1548.html)
