@@ -23,7 +23,7 @@ public class Main {
     }
 
     static void insertNewBlocks(int f, int[][] cells, LinkedList<int[]> vacantSpaces, Scanner scanner) {
-        for (int i = 0; i < f; i++) {
+        for (int insertion = 0; insertion < f; insertion++) {
             int block = scanner.nextInt();
             if (!vacantSpaces.isEmpty()) {
                 int[] position = vacantSpaces.removeFirst();

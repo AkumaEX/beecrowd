@@ -1,4 +1,5 @@
 [beecrowd](https://www.beecrowd.com.br/)
+
 # 2 AD-HOC
 Problemas de Simulação, Datas e Ad-Hoc em geral...
 
@@ -61,4 +62,6 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 [1467](/AD-HOC/1467/) | [Zerinho ou Um](https://www.beecrowd.com.br/repository/UOJ_1467.html)
 
 [1546](/AD-HOC/1546/) | [Feedback](https://www.beecrowd.com.br/repository/UOJ_1546.html)
+
+[1573](/AD-HOC/1573/) | [Fábrica de Chocolate](https://www.beecrowd.com.br/repository/UOJ_1573.html)
 
