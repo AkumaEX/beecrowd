@@ -6,3 +6,5 @@ Programação Dinâmica, Busca Binária, Gulosos, Backtracking...
 
 [1029](/PARADIGMAS/1029/) | [Fibonacci, Quantas Chamadas?](https://www.beecrowd.com.br/repository/UOJ_1029.html)
 
+[1166](/PARADIGMAS/1166/) | [Torre de Hanoi, Novamente!](https://www.beecrowd.com.br/repository/UOJ_1166.html)
+
