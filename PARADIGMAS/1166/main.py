@@ -13,8 +13,8 @@ def get_max_balls(num_pegs, lookup):
 
 def _update_current_state(current_ball, current_state):
     for peg, last_ball in enumerate(current_state):
-        square_number = ((last_ball + current_ball)**0.5).is_integer()
-        if (square_number):
+        is_square_number = ((last_ball + current_ball)**0.5).is_integer()
+        if (is_square_number):
             current_state[peg] = current_ball
             return True
 

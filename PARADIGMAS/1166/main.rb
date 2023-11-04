@@ -16,8 +16,8 @@ end
 
 def _update_current_state(current_ball, current_state)
   current_state.each_with_index do |last_ball, peg|
-    square_number = ((last_ball + current_ball)**0.5 % 1).zero?
-    if square_number
+    is_square_number = ((last_ball + current_ball)**0.5 % 1).zero?
+    if is_square_number
       current_state[peg] = current_ball
       return true
     end

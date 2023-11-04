@@ -15,8 +15,8 @@ function getMaxBalls(numPegs, lookUp) {
 
 function _updateCurrentState(currentBall, currentState) {
     for (let [peg, lastBall] of currentState.entries()) {
-        let squareNumber = (Math.pow(lastBall + currentBall, 0.5) % 1) === 0;
-        if (squareNumber) {
+        let isSquareNumber = (Math.pow(lastBall + currentBall, 0.5) % 1) === 0;
+        if (isSquareNumber) {
             currentState[peg] = currentBall;
             return true;
         }
@@ -39,8 +39,8 @@ let input = require('fs').readFileSync('/dev/stdin', 'utf-8');
 let lines = input.split('\n');
 
 let lookUp = {};
-let n = parseInt(lines[0]);
-for (let i = 1; i <= n; i++) {
+let t = parseInt(lines[0]);
+for (let i = 1; i <= t; i++) {
     let numPegs = parseInt(lines[i]);
     console.log(getMaxBalls(numPegs, lookUp));
 }
