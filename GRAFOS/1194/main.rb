@@ -6,18 +6,18 @@ def get_nodes(s1)
   graph
 end
 
-def add_arcs(graph, to_insert, to_stop)
+def add_edges(graph, to_insert, to_stop)
   stop_node = to_stop.next
   parent = to_insert.next
-  added = [parent]
+  path = [parent]
   loop do
     child = to_insert.next
     graph[parent].push(child)
-    added.push(child)
+    path.push(child)
     parent = child
     next unless parent == stop_node
 
-    while added.include? stop_node
+    while path.include? stop_node
       parent = stop_node
       begin
         stop_node = to_stop.next
@@ -38,7 +38,7 @@ c = gets.to_i
 c.times do
   _, s1, s2 = gets.split
   graph = get_nodes(s1)
-  graph = add_arcs(graph, s1.each_char, s2.each_char)
+  graph = add_edges(graph, s1.each_char, s2.each_char)
   root = s1[0]
   puts post_order(root, graph)
 end
