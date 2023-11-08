@@ -2,22 +2,24 @@ def get_nodes(s1):
     return {data: [] for data in s1}
 
 
-def add_edges(graph, to_insert, to_stop):
-    stop_node = next(to_stop)
-    parent = next(to_insert)
+def add_edges(nodes, leaves, graph):
+    leaf = next(leaves)
+    parent = next(nodes)
     path = [parent]
-    for child in to_insert:
+    for child in nodes:
         graph[parent].append(child)
         path.append(child)
-        parent = child
-        if (parent == stop_node):
-            while (stop_node in path):
-                parent = stop_node
-                try:
-                    stop_node = next(to_stop)
-                except StopIteration:
-                    break
-    return graph
+        parent, leaf = _backtrack_if_leaf(child, leaf, path, leaves)
+    return path[0]
+
+
+def _backtrack_if_leaf(node, leaf, path, leaves):
+    if (node == leaf):
+        for leaf in leaves:
+            if not leaf in path:
+                break
+            node = leaf
+    return node, leaf
 
 
 def post_order(parent, graph):
@@ -31,6 +33,5 @@ c = int(input())
 for _ in range(c):
     n, s1, s2 = input().split()
     graph = get_nodes(s1)
-    graph = add_edges(graph, iter(s1), iter(s2))
-    root = s1[0]
-    print(post_order(root, graph))
+    tree_root = add_edges(iter(s1), iter(s2), graph)
+    print(post_order(tree_root, graph))

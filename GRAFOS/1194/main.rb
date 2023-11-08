@@ -6,26 +6,28 @@ def get_nodes(s1)
   graph
 end
 
-def add_edges(graph, to_insert, to_stop)
-  stop_node = to_stop.next
-  parent = to_insert.next
+def add_edges(nodes, leaves, graph)
+  leaf = leaves.next
+  parent = nodes.next
   path = [parent]
   loop do
-    child = to_insert.next
+    child = nodes.next
     graph[parent].push(child)
     path.push(child)
-    parent = child
-    next unless parent == stop_node
+    parent, leaf = _backtrack_if_leaf(child, leaf, path, leaves)
+  end
+  path.first
+end
 
-    while path.include? stop_node
-      parent = stop_node
-      begin
-        stop_node = to_stop.next
-      rescue StopIteration
-        return graph
-      end
+def _backtrack_if_leaf(node, leaf, path, leaves)
+  if node == leaf
+    leaves.each do |leaf|
+      return [node, leaf] unless path.any? leaf
+
+      node = leaf
     end
   end
+  [node, leaf]
 end
 
 def post_order(parent, graph)
@@ -38,7 +40,6 @@ c = gets.to_i
 c.times do
   _, s1, s2 = gets.split
   graph = get_nodes(s1)
-  graph = add_edges(graph, s1.each_char, s2.each_char)
-  root = s1[0]
-  puts post_order(root, graph)
+  tree_root = add_edges(s1.each_char, s2.each_char, graph)
+  puts post_order(tree_root, graph)
 end
