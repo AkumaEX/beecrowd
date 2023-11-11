@@ -5,7 +5,7 @@ def get_map(lines):
 def map_is_valid(x, y, map):
     position = (0, 0)
     visited = []
-    direction = ''
+    direction = (0, 0)
     while True:
         if _no_problem(position, visited, x, y, map):
             if _chest_found(position, map):

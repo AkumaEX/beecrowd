@@ -9,7 +9,7 @@ function getMap(y) {
 function mapIsValid(x, y, map) {
     let position = [0, 0];
     visited = [];
-    direction = '';
+    direction = [0, 0];
     while (true) {
         if (_noProblem(position, visited, x, y, map)) {
             if (_chestFound(position, map)) {

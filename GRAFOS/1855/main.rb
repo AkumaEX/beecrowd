@@ -11,7 +11,7 @@ end
 def map_is_valid(x, y, map)
   position = [0, 0]
   visited = []
-  direction = ''
+  direction = [0, 0]
   loop do
     return false unless _no_problem(position, visited, x, y, map)
     return true if _chest_found(position, map)
