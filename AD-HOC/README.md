@@ -68,3 +68,5 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 [1573](/AD-HOC/1573/) | [Fábrica de Chocolate](https://www.beecrowd.com.br/repository/UOJ_1573.html)
 
 [1986](/AD-HOC/1986/) | [Perdido de Marte](https://www.beecrowd.com.br/repository/UOJ_1986.html)
+
+[2414](/AD-HOC/2414/) | [Desafio do Maior Número](https://www.beecrowd.com.br/repository/UOJ_2414.html)
