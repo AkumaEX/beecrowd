@@ -69,6 +69,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1793](/AD-HOC/1793/) | [Escada Rolante](https://www.beecrowd.com.br/repository/UOJ_1793.html)
 
+[1794](/AD-HOC/1794/) | [Lavanderia](https://www.beecrowd.com.br/repository/UOJ_1794.html)
+
 [1936](/AD-HOC/1936/) | [Fatorial](https://www.beecrowd.com.br/repository/UOJ_1936.html)
 
 [1986](/AD-HOC/1986/) | [Perdido de Marte](https://www.beecrowd.com.br/repository/UOJ_1986.html)
