@@ -1,0 +1,38 @@
+# frozen_string_literal:true
+
+def get_coordinates(x1_before, y1_before, x1_after, y1_after, x2_before, y2_before, x2_after, y2_after)
+  xm1 = (x1_before + x1_after) / 2
+  ym1 = (y1_before + y1_after) / 2
+  m1 = y1_before != y1_after ? -(x1_before - x1_after) / (y1_before - y1_after) : 0
+
+  xm2 = (x2_before + x2_after) / 2
+  ym2 = (y2_before + y2_after) / 2
+  m2 = y2_before != y2_after ? -(x2_before - x2_after) / (y2_before - y2_after) : 0
+
+  if m1.zero?
+    x = xm1
+    y = ym2 + m2 * (x - xm2)
+  elsif m2.zero?
+    x = xm2
+    y = ym1 + m1 * (x - xm1)
+  else
+    x = (m1 * xm1 - ym1 - m2 * xm2 + ym2) / (m1 - m2)
+    y = ym1 + m1 * (x - xm1)
+  end
+  [x, y]
+end
+
+def print_formatted(c, x, y)
+  puts "Caso ##{c}: #{format('%.2f', x)} #{format('%.2f', y)}"
+end
+
+t = gets.to_i
+1.upto(t) do |c|
+  x1_before, y1_before = gets.split.map(&:to_f)
+  x2_before, y2_before = gets.split.map(&:to_f)
+  x1_after, y1_after = gets.split.map(&:to_f)
+  x2_after, y2_after = gets.split.map(&:to_f)
+
+  x, y = get_coordinates(x1_before, y1_before, x1_after, y1_after, x2_before, y2_before, x2_after, y2_after)
+  print_formatted(c, x, y)
+end
