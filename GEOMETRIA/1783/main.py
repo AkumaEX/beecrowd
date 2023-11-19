@@ -1,33 +1,38 @@
-def get_coordinates(x1_before, y1_before, x1_after, y1_after, x2_before, y2_before, x2_after, y2_after):
-    xm1, ym1, m1 =_get_params(x1_before, y1_before, x1_after, y1_after)
-    xm2, ym2, m2 =_get_params(x2_before, y2_before, x2_after, y2_after)
-    
+class Point():
+    def __init__(self, x, y):
+        self.x = x
+        self.y = y
+
+
+def get_black_hole_point(s1_before, s1_after, s2_before, s2_after):
+    x1 = (s1_before.x + s1_after.x) / 2
+    y1 = (s1_before.y + s1_after.y) / 2
+    m1 = (s1_before.y - s1_after.y) / (s1_before.x - s1_after.x)
+
+    x2 = (s2_before.x + s2_after.x) / 2
+    y2 = (s2_before.y + s2_after.y) / 2
+    m2 = (s2_before.y - s2_after.y) / (s2_before.x - s2_after.x)
+
     if m1 == 0:
-        return xm1, ym2 + m2 * (xm1 - xm2)
-    if m2 == 0:
-        return xm2, ym1 + m1 * (xm2 - xm1)
-    
-    x = (m1 * xm1 - ym1 - m2 * xm2 + ym2) / (m1 - m2)
-    y = ym1 + m1 * (x - xm1)
-    return x, y
+        if m2 == 0:
+            return Point(x1, y2)
+        return Point(x1, y2 - (x1 - x2) / m2)
 
-def _get_params(x_before, y_before, x_after, y_after):
-    xm = (x_before + x_after) / 2
-    ym = (y_before + y_after) / 2
-    m = -(x_before - x_after) / (y_before - y_after) if y_before != y_after else 0
-    return xm, ym, m
+    x = ((y2 - y1) * m1 * m2 + ((m1 * x2) - (m2 * x1))) / (m1 - m2)
+    y = y1 - (x - x1) / m1
+    return Point(x, y)
 
 
-def print_formatted(c, x, y):
-    print('Caso #{}: {:.2f} {:.2f}'.format(c, x, y))
+def print_formatted(c, point):
+    print('Caso #{}: {:.2f} {:.2f}'.format(c, point.x, point.y))
 
 
 t = int(input())
 for c in range(1, t+1):
-    x1_before, y1_before = tuple(map(float, input().split()))
-    x2_before, y2_before = tuple(map(float, input().split()))
-    x1_after, y1_after = tuple(map(float, input().split()))
-    x2_after, y2_after = tuple(map(float, input().split()))
+    s1_before = Point(*map(float, input().split()))
+    s2_before = Point(*map(float, input().split()))
+    s1_after = Point(*map(float, input().split()))
+    s2_after = Point(*map(float, input().split()))
 
-    x, y = get_coordinates(x1_before, y1_before, x1_after, y1_after, x2_before, y2_before, x2_after, y2_after)
-    print_formatted(c, x, y)
+    black_hole = get_black_hole_point(s1_before, s1_after, s2_before, s2_after)
+    print_formatted(c, black_hole)

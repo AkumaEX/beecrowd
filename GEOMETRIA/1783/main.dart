@@ -1,35 +1,42 @@
 import 'dart:io';
+import 'dart:math';
 
-(double, double) getCoodinates(x1Before, y1Before, x1After, y1After, x2Before, y2Before, x2After, y2After) {
-  var (xm1, ym1, m1) = _getParams(x1Before, y1Before, x1After, y1After);
-  var (xm2, ym2, m2) = _getParams(x2Before, y2Before, x2After, y2After);
-
-  if (m1 == 0) return (xm1, ym2 + m2 * (xm1 - xm2));
-  if (m2 == 0) return (xm2, ym1 + m1 * (xm2 - xm1));
-  double x = (m1 * xm1 - ym1 - m2 * xm2 + ym2) / (m1 - m2);
-  double y = ym1 + m1 * (x - xm1);
-  return (x, y);
+Point getStarPoint() {
+  var [x, y] = stdin.readLineSync()!.split(' ').map(double.parse).toList();
+  return Point(x, y);
 }
 
-(double, double, double) _getParams(xBefore, yBefore, xAfter, yAfter) {
-  double xm = (xBefore + xAfter) / 2;
-  double ym = (yBefore + yAfter) / 2;
-  double m = (yBefore != yAfter) ? -(xBefore - xAfter) / (yBefore - yAfter) : 0;
-  return (xm, ym, m);
+Point getBlackHolePoint(Point s1Before, Point s1After, Point s2Before, Point s2After) {
+  double x1 = (s1Before.x + s1After.x) / 2;
+  double y1 = (s1Before.y + s1After.y) / 2;
+  double m1 = (s1Before.y - s1After.y) / (s1Before.x - s1After.x);
+
+  double x2 = (s2Before.x + s2After.x) / 2;
+  double y2 = (s2Before.y + s2After.y) / 2;
+  double m2 = (s2Before.y - s2After.y) / (s2Before.x - s2After.x);
+
+  if (m1 == 0) {
+    if (m2 == 0) return Point(x1, y2);
+    return Point(x1, y2 - (x1 - x2) / m2);
+  }
+
+  double x = ((y2 - y1) * m1 * m2 + ((m1 * x2) - (m2 * x1))) / (m1 - m2);
+  double y = y1 - (x - x1) / m1;
+  return Point(x, y);
 }
 
-void printFormatted(int c, double x, double y) {
-  print('Caso #$c: ${x.toStringAsFixed(2)} ${y.toStringAsFixed(2)}');
+void printFormatted(int c, Point point) {
+  print('Caso #$c: ${point.x.toStringAsFixed(2)} ${point.y.toStringAsFixed(2)}');
 }
 
 void main() {
   int t = int.parse(stdin.readLineSync()!);
   for (int c = 1; c <= t; c++) {
-    var [x1Before, y1Before] = stdin.readLineSync()!.split(' ').map(double.parse).toList();
-    var [x2Before, y2Before] = stdin.readLineSync()!.split(' ').map(double.parse).toList();
-    var [x1After, y1After] = stdin.readLineSync()!.split(' ').map(double.parse).toList();
-    var [x2After, y2After] = stdin.readLineSync()!.split(' ').map(double.parse).toList();
-    var (x, y) = getCoodinates(x1Before, y1Before, x1After, y1After, x2Before, y2Before, x2After, y2After);
-    printFormatted(c, x, y);
+    Point s1Before = getStarPoint();
+    Point s2Before = getStarPoint();
+    Point s1After = getStarPoint();
+    Point s2After = getStarPoint();
+    Point blackHole = getBlackHolePoint(s1Before, s1After, s2Before, s2After);
+    printFormatted(c, blackHole);
   }
 }
