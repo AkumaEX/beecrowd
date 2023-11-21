@@ -8,3 +8,5 @@ Programação Dinâmica, Busca Binária, Gulosos, Backtracking...
 
 [1166](/PARADIGMAS/1166/) | [Torre de Hanoi, Novamente!](https://www.beecrowd.com.br/repository/UOJ_1166.html)
 
+[1608](/PARADIGMAS/1608/) | [Bolos da Maria](https://www.beecrowd.com.br/repository/UOJ_1608.html)
+
