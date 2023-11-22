@@ -1,6 +1,7 @@
 [beecrowd](https://www.beecrowd.com.br/)
 
 # 1 INICIANTE
+
 Problemas básicos para quem está iniciando na programação ...
 
 [1000](/INICIANTE/1000/) | [Hello World!](https://www.beecrowd.com.br/repository/UOJ_1000.html)
@@ -36,3 +37,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1015](/INICIANTE/1015/) | [Distância Entre Dois Pontos](https://www.beecrowd.com.br/repository/UOJ_1015.html)
 
 [1016](/INICIANTE/1016/) | [Distância](https://www.beecrowd.com.br/repository/UOJ_1016.html)
+
+[1017](/INICIANTE/1017/) | [Gasto de Combustível](https://www.beecrowd.com.br/repository/UOJ_1017.html)
