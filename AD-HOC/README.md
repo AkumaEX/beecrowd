@@ -78,3 +78,5 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 [2413](/AD-HOC/2413/) | [Busca na Internet](https://www.beecrowd.com.br/repository/UOJ_2413.html)
 
 [2414](/AD-HOC/2414/) | [Desafio do Maior Número](https://www.beecrowd.com.br/repository/UOJ_2414.html)
+
+[2417](/AD-HOC/2417/) | [Campeonato](https://www.beecrowd.com.br/repository/UOJ_2417.html)
