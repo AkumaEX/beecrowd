@@ -1,14 +1,12 @@
 DROP TABLE IF EXISTS customers;
-
 CREATE TABLE customers (
     id SERIAL PRIMARY KEY,
     name VARCHAR,
     street VARCHAR,
     city VARCHAR,
     state CHAR(2),
-    credit_limit REAL
+    credit_limit NUMERIC
 );
-
 INSERT INTO customers (name, street, city, state, credit_limit)
 VALUES (
         'Pedro Augusto da Rocha',
