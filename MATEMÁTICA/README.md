@@ -29,3 +29,5 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 [1457](/MATEMÁTICA/1457/) | [Oráculo de Alexandria](https://www.beecrowd.com.br/repository/UOJ_1457.html)
 
 [1555](/MATEMÁTICA/1555/) | [Funções](https://www.beecrowd.com.br/repository/UOJ_1555.html)
+
+[1630](/MATEMÁTICA/1630/) | [Estacas](https://www.beecrowd.com.br/judge/pt/problems/view/1630)
