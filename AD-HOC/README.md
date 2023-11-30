@@ -1,6 +1,7 @@
 [beecrowd](https://www.beecrowd.com.br/)
 
 # 2 AD-HOC
+
 Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1026](/AD-HOC/1026/) | [Carrega ou não Carrega?](https://www.beecrowd.com.br/repository/UOJ_1026.html)
@@ -74,6 +75,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 [1936](/AD-HOC/1936/) | [Fatorial](https://www.beecrowd.com.br/repository/UOJ_1936.html)
 
 [1986](/AD-HOC/1986/) | [Perdido de Marte](https://www.beecrowd.com.br/repository/UOJ_1986.html)
+
+[2369](/AD-HOC/2369/) | [Conta de Água](https://www.beecrowd.com.br/repository/UOJ_2369.html)
 
 [2413](/AD-HOC/2413/) | [Busca na Internet](https://www.beecrowd.com.br/repository/UOJ_2413.html)
 
