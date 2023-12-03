@@ -78,6 +78,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2189](/AD-HOC/2189/) | [Quermesse](https://www.beecrowd.com.br/repository/UOJ_2189.html)
 
+[2328](/AD-HOC/2328/) | [Chocolate](https://www.beecrowd.com.br/repository/UOJ_2328.html)
+
 [2369](/AD-HOC/2369/) | [Conta de Água](https://www.beecrowd.com.br/repository/UOJ_2369.html)
 
 [2413](/AD-HOC/2413/) | [Busca na Internet](https://www.beecrowd.com.br/repository/UOJ_2413.html)
