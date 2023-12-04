@@ -82,6 +82,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2369](/AD-HOC/2369/) | [Conta de Água](https://www.beecrowd.com.br/repository/UOJ_2369.html)
 
+[2376](/AD-HOC/2376/) | [Copa do Mundo](https://www.beecrowd.com.br/repository/UOJ_2376.html)
+
 [2413](/AD-HOC/2413/) | [Busca na Internet](https://www.beecrowd.com.br/repository/UOJ_2413.html)
 
 [2414](/AD-HOC/2414/) | [Desafio do Maior Número](https://www.beecrowd.com.br/repository/UOJ_2414.html)
