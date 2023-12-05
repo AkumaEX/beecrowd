@@ -17,7 +17,7 @@ def print_formatted(test, ticket)
 end
 
 test = 1
-while (n = gets.to_i).nonzero?
+while gets.to_i.nonzero?
   tickets = gets.split.map(&:to_i)
   print_formatted(test, winner(tickets))
   test += 1

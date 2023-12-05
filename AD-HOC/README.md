@@ -76,6 +76,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1986](/AD-HOC/1986/) | [Perdido de Marte](https://www.beecrowd.com.br/repository/UOJ_1986.html)
 
+[2187](/AD-HOC/2187/) | [Bits Trocados](https://www.beecrowd.com.br/repository/UOJ_2187.html)
+
 [2189](/AD-HOC/2189/) | [Quermesse](https://www.beecrowd.com.br/repository/UOJ_2189.html)
 
 [2328](/AD-HOC/2328/) | [Chocolate](https://www.beecrowd.com.br/repository/UOJ_2328.html)

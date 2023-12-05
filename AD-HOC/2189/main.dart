@@ -14,8 +14,8 @@ void printFormatted(int test, int winner) {
 }
 
 void main() {
-  int n, test = 1;
-  while ((n = int.parse(stdin.readLineSync()!)) > 0) {
+  int test = 1;
+  while (int.parse(stdin.readLineSync()!) > 0) {
     int winner = getWinner();
     printFormatted(test, winner);
     test++;

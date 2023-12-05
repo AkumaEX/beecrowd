@@ -16,9 +16,8 @@ function printFormatted(test, winner) {
 let input = require('fs').readFileSync('/dev/stdin', 'utf-8');
 var lines = input.split('\n');
 var i = 0;
-let n;
 let test = 1;
-while (n = parseInt(lines[i++])) {
+while (parseInt(lines[i++])) {
     let winner = getWinner();
     printFormatted(test, winner);
     test++;

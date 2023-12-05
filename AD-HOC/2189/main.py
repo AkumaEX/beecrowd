@@ -12,7 +12,7 @@ def print_formatted(test, winner):
 
 
 test = 1
-while n := int(input()):
+while int(input()):
     winner = get_winner()
     print_formatted(test, winner)
     test += 1
