@@ -93,3 +93,5 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 [2416](/AD-HOC/2416/) | [Corrida](https://www.beecrowd.com.br/repository/UOJ_2416.html)
 
 [2417](/AD-HOC/2417/) | [Campeonato](https://www.beecrowd.com.br/repository/UOJ_2417.html)
+
+[3109](/AD-HOC/3109/) | [Trocando de Mesa](https://www.beecrowd.com.br/repository/UOJ_3109.html)
