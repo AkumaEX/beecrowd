@@ -96,6 +96,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2417](/AD-HOC/2417/) | [Campeonato](https://www.beecrowd.com.br/repository/UOJ_2417.html)
 
+[2434](/AD-HOC/2434/) | [Saldo do Vovô](https://www.beecrowd.com.br/repository/UOJ_2434.html)
+
 [2679](/AD-HOC/2679/) | [Sucessor Par](https://www.beecrowd.com.br/repository/UOJ_2679.html)
 
 [3109](/AD-HOC/3109/) | [Trocando de Mesa](https://www.beecrowd.com.br/repository/UOJ_3109.html)
