@@ -86,6 +86,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2374](/AD-HOC/2374/) | [Pneu](https://www.beecrowd.com.br/repository/UOJ_2374.html)
 
+[2375](/AD-HOC/2375/) | [Sedex](https://www.beecrowd.com.br/repository/UOJ_2375.html)
+
 [2376](/AD-HOC/2376/) | [Copa do Mundo](https://www.beecrowd.com.br/repository/UOJ_2376.html)
 
 [2339](/AD-HOC/2339/) | [Aviões de Papel](https://www.beecrowd.com.br/repository/UOJ_2339.html)
