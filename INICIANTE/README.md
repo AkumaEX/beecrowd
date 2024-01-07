@@ -39,3 +39,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1016](/INICIANTE/1016/) | [Distância](https://www.beecrowd.com.br/repository/UOJ_1016.html)
 
 [1017](/INICIANTE/1017/) | [Gasto de Combustível](https://www.beecrowd.com.br/repository/UOJ_1017.html)
+
+[1019](/INICIANTE/1019/) | [Conversão de Tempo](https://www.beecrowd.com.br/repository/UOJ_1019.html)
