@@ -40,4 +40,6 @@ Problemas básicos para quem está iniciando na programação ...
 
 [1017](/INICIANTE/1017/) | [Gasto de Combustível](https://www.beecrowd.com.br/repository/UOJ_1017.html)
 
+[1018](/INICIANTE/1018/) | [Cédulas](https://www.beecrowd.com.br/repository/UOJ_1018.html)
+
 [1019](/INICIANTE/1019/) | [Conversão de Tempo](https://www.beecrowd.com.br/repository/UOJ_1019.html)
