@@ -31,3 +31,5 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 [1555](/MATEMÁTICA/1555/) | [Funções](https://www.beecrowd.com.br/repository/UOJ_1555.html)
 
 [1630](/MATEMÁTICA/1630/) | [Estacas](https://www.beecrowd.com.br/judge/pt/problems/view/1630)
+
+[2232](/MATEMÁTICA/2232/) | [Triângulo de Pascal](https://www.beecrowd.com.br/repository/UOJ_2232.html)
