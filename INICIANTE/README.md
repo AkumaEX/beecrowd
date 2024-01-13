@@ -43,3 +43,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1018](/INICIANTE/1018/) | [Cédulas](https://www.beecrowd.com.br/repository/UOJ_1018.html)
 
 [1019](/INICIANTE/1019/) | [Conversão de Tempo](https://www.beecrowd.com.br/repository/UOJ_1019.html)
+
+[1020](/INICIANTE/1020/) | [Idade em Dias](https://www.beecrowd.com.br/repository/UOJ_1020.html)
