@@ -22,4 +22,6 @@ Filas, Pilhas, Ordenação, Mapas...
 
 [1874](/ESTRUTURAS/1874/) | [Empurrando Blocos](https://www.beecrowd.com.br/repository/UOJ_1874.html)
 
+[2496](/ESTRUTURAS/2496/) | [A Única Chance](https://www.beecrowd.com.br/repository/UOJ_2496.html)
+
 [3171](/ESTRUTURAS/3171/) | [Cordão de Led](https://www.beecrowd.com.br/repository/UOJ_3171.html)
