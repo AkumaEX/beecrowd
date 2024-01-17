@@ -2,7 +2,7 @@ def min_distance(m, n):
     distance = 0
     parent = list(range(m))
     edges = _get_edges(n)
-    for z in sorted(edges.keys()):
+    for z in sorted(edges):
         for x, y in edges[z]:
             x_rep = _find(parent, x)
             y_rep = _find(parent, y)
