@@ -12,6 +12,8 @@ Flood Fill, MST, SSSP, DAG, Fluxo Máximo, Árvores ...
 
 [1764](/GRAFOS/1764/) | [Itinerário do Papai Noel](https://www.beecrowd.com.br/repository/UOJ_1764.html)
 
+[1774](/GRAFOS/1774/) | [Roteadores](https://www.beecrowd.com.br/repository/UOJ_1774.html)
+
 [1855](/GRAFOS/1855/) | [Mapa do Meistre](https://www.beecrowd.com.br/repository/UOJ_1855.html)
 
 [2404](/GRAFOS/2404/) | [Reduzindo Detalhes em um Mapa](https://www.beecrowd.com.br/repository/UOJ_2404.html)
