@@ -18,4 +18,6 @@ Flood Fill, MST, SSSP, DAG, Fluxo Máximo, Árvores ...
 
 [2404](/GRAFOS/2404/) | [Reduzindo Detalhes em um Mapa](https://www.beecrowd.com.br/repository/UOJ_2404.html)
 
+[2419](/GRAFOS/2419/) | [Costa](https://www.beecrowd.com.br/repository/UOJ_2419.html)
+
 [2428](/GRAFOS/2428/) | [Capital](https://www.beecrowd.com.br/repository/UOJ_2428.html)
