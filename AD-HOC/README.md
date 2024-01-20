@@ -90,6 +90,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2376](/AD-HOC/2376/) | [Copa do Mundo](https://www.beecrowd.com.br/repository/UOJ_2376.html)
 
+[2388](/AD-HOC/2388/) | [Tacógrafo](https://www.beecrowd.com.br/repository/UOJ_2388.html)
+
 [2339](/AD-HOC/2339/) | [Aviões de Papel](https://www.beecrowd.com.br/repository/UOJ_2339.html)
 
 [2413](/AD-HOC/2413/) | [Busca na Internet](https://www.beecrowd.com.br/repository/UOJ_2413.html)
