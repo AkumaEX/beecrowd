@@ -21,3 +21,5 @@ Palíndromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings
 [1248](/STRINGS/1248/) | [Plano de Dieta](https://www.beecrowd.com.br/repository/UOJ_1248_en.html)
 
 [1871](/STRINGS/1871/) | [Zero vale Zero](https://www.beecrowd.com.br/repository/UOJ_1871.html)
+
+[2157](/STRINGS/2157/) | [Sequência Espelho](https://www.beecrowd.com.br/repository/UOJ_2157.html)
