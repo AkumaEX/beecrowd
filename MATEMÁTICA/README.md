@@ -37,3 +37,5 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 [2232](/MATEMÁTICA/2232/) | [Triângulo de Pascal](https://www.beecrowd.com.br/repository/UOJ_2232.html)
 
 [2839](/MATEMÁTICA/2839/) | [As Meias de Rangel](https://www.beecrowd.com.br/repository/UOJ_2839.html)
+
+[3049](/MATEMÁTICA/3049/) | [Nota Cortada](https://www.beecrowd.com.br/repository/UOJ_3049.html)
