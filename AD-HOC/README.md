@@ -108,4 +108,6 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2679](/AD-HOC/2679/) | [Sucessor Par](https://www.beecrowd.com.br/repository/UOJ_2679.html)
 
+[2868](/AD-HOC/2868/) | [Errrou!](https://www.beecrowd.com.br/repository/UOJ_2868.html)
+
 [3109](/AD-HOC/3109/) | [Trocando de Mesa](https://www.beecrowd.com.br/repository/UOJ_3109.html)
