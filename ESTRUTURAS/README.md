@@ -26,4 +26,6 @@ Filas, Pilhas, Ordenação, Mapas...
 
 [3171](/ESTRUTURAS/3171/) | [Cordão de Led](https://www.beecrowd.com.br/repository/UOJ_3171.html)
 
+[3176](/ESTRUTURAS/3176/) | [Time de Duendes](https://www.beecrowd.com.br/repository/UOJ_3176.html)
+
 [3357](/ESTRUTURAS/3357/) | [Rico do Mate](https://www.beecrowd.com.br/repository/UOJ_3357.html)
