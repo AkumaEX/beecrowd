@@ -34,6 +34,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1630](/MATEMÁTICA/1630/) | [Estacas](https://www.beecrowd.com.br/judge/pt/problems/view/1630)
 
+[2044](/MATEMÁTICA/2044/) | [Em Dívida](https://www.beecrowd.com.br/repository/UOJ_2044.html)
+
 [2232](/MATEMÁTICA/2232/) | [Triângulo de Pascal](https://www.beecrowd.com.br/repository/UOJ_2232.html)
 
 [2839](/MATEMÁTICA/2839/) | [As Meias de Rangel](https://www.beecrowd.com.br/repository/UOJ_2839.html)
