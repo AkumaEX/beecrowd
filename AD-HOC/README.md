@@ -110,4 +110,6 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2868](/AD-HOC/2868/) | [Errrou!](https://www.beecrowd.com.br/repository/UOJ_2868.html)
 
+[2926](/AD-HOC/2926/) | [Então é Natal!](https://www.beecrowd.com.br/repository/UOJ_2926.html)
+
 [3109](/AD-HOC/3109/) | [Trocando de Mesa](https://www.beecrowd.com.br/repository/UOJ_3109.html)
