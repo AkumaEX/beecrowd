@@ -74,6 +74,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1936](/AD-HOC/1936/) | [Fatorial](https://www.beecrowd.com.br/repository/UOJ_1936.html)
 
+[1943](/AD-HOC/1943/) | [Top N](https://www.beecrowd.com.br/repository/UOJ_1943.html)
+
 [1986](/AD-HOC/1986/) | [Perdido de Marte](https://www.beecrowd.com.br/repository/UOJ_1986.html)
 
 [2187](/AD-HOC/2187/) | [Bits Trocados](https://www.beecrowd.com.br/repository/UOJ_2187.html)
