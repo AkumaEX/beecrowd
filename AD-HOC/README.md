@@ -122,4 +122,6 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2926](/AD-HOC/2926/) | [Então é Natal!](https://www.beecrowd.com.br/repository/UOJ_2926.html)
 
+[3058](/AD-HOC/3058/) | [Supermercado](https://www.beecrowd.com.br/repository/UOJ_3058.html)
+
 [3109](/AD-HOC/3109/) | [Trocando de Mesa](https://www.beecrowd.com.br/repository/UOJ_3109.html)
