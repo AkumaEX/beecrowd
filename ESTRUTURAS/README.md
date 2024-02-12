@@ -16,6 +16,8 @@ Filas, Pilhas, Ordenação, Mapas...
 
 [1261](/ESTRUTURAS/1261/) | [Pontos de Feno](https://www.beecrowd.com.br/repository/UOJ_1261.html)
 
+[1430](/ESTRUTURAS/1430/) | [Composição de Jingles](https://resources.beecrowd.com/repository/UOJ_1430.html)
+
 [1452](/ESTRUTURAS/1452/) | [Gloud Computing](https://www.beecrowd.com.br/repository/UOJ_1452.html)
 
 [1548](/ESTRUTURAS/1548/) | [Fila do Recreio](https://www.beecrowd.com.br/repository/UOJ_1548.html)
