@@ -18,7 +18,9 @@ Palíndromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings
 
 [1241](/STRINGS/1241/) | [Encaixa ou Não II](https://www.beecrowd.com.br/repository/UOJ_1241.html)
 
-[1248](/STRINGS/1248/) | [Plano de Dieta](https://www.beecrowd.com.br/repository/UOJ_1248_en.html)
+[1248](/STRINGS/1248/) | [Plano de Dieta](https://www.beecrowd.com.br/repository/UOJ_1248.html)
+
+[1278](/STRINGS/1278/) | [Justificador II](https://resources.beecrowd.com/repository/UOJ_1278.html)
 
 [1871](/STRINGS/1871/) | [Zero vale Zero](https://www.beecrowd.com.br/repository/UOJ_1871.html)
 
