@@ -1,15 +1,22 @@
 def get_messages(n):
-    return {input().strip(): input().strip() for _ in range(n)}
+    messages = {}
+    for _ in range(n):
+        language = input().strip()
+        message = input().strip()
+        messages[language] = message
+    return messages
 
 
-def print_formatted(m, messages):
+def formatted_print(m, messages):
     for _ in range(m):
-        print(input().strip())
-        print(messages[input().strip()])
+        name = input().strip()
+        language = input().strip()
+        print(name)
+        print(messages[language])
         print()
 
 
 n = int(input())
 messages = get_messages(n)
 m = int(input())
-print_formatted(m, messages)
+formatted_print(m, messages)
