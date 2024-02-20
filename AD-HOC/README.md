@@ -92,6 +92,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2369](/AD-HOC/2369/) | [Conta de Água](https://www.beecrowd.com.br/repository/UOJ_2369.html)
 
+[2373](/AD-HOC/2373/) | [Garçom](https://resources.beecrowd.com/repository/UOJ_2373.html)
+
 [2374](/AD-HOC/2374/) | [Pneu](https://www.beecrowd.com.br/repository/UOJ_2374.html)
 
 [2375](/AD-HOC/2375/) | [Sedex](https://www.beecrowd.com.br/repository/UOJ_2375.html)
