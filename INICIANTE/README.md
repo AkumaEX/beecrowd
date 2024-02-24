@@ -51,3 +51,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1035](/INICIANTE/1035/) | [Teste de Seleção 1](https://www.beecrowd.com.br/repository/UOJ_1035.html)
 
 [1037](/INICIANTE/1037/) | [Intervalo](https://www.beecrowd.com.br/repository/UOJ_1037.html)
+
+[1038](/INICIANTE/1038/) | [Lanche](https://resources.beecrowd.com/repository/UOJ_1038.html)
