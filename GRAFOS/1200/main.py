@@ -19,33 +19,29 @@ def insert(data, node):
 
 
 def print_search(data, tree):
-    if _search(data, tree):
-        print(f'{data} existe')
-    else:
-        print(f'{data} nao existe')
+    print(f'{data} existe' if _search(data, tree) else f'{data} nao existe')
+
 
 def _search(data, node):
     if node:
-        if data in node.data:
-            return True
-        return _search(data, node.left) or _search(data, node.right)
+        return data == node.data or _search(data, node.left) or _search(data, node.right)
     return False
 
 
 def print_tree(expression, tree):
     result = []
-    _expression_tree(tree, expression, result)
+    _expression_tree(expression, tree, result)
     print(' '.join(result))
 
 
-def _expression_tree(node, expression, result):
+def _expression_tree(expression, node, result):
     if node:
         if (expression == 'PREFIXA'):
             result.append(node.data)
-        _expression_tree(node.left, expression, result)
+        _expression_tree(expression, node.left, result)
         if (expression == 'INFIXA'):
             result.append(node.data)
-        _expression_tree(node.right, expression, result)
+        _expression_tree(expression, node.right, result)
         if (expression == 'POSFIXA'):
             result.append(node.data)
 
@@ -55,10 +51,7 @@ tree = Node(data)
 for line in stdin:
     if ' ' in line:
         command, data = line.strip().split()
-        if command == 'I':
-            insert(data, tree)
-        else:
-            print_search(data, tree)
+        insert(data, tree) if command == 'I' else print_search(data, tree)
     else:
         expression = line.strip()
         print_tree(expression, tree)

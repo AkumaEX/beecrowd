@@ -20,28 +20,29 @@ def insert(data, node)
   Node.new data
 end
 
-def search(data, node)
-  if node
-    return true if node.data == data
+def print_search(data, tree)
+  puts _search(data, tree) ? "#{data} existe" : "#{data} nao existe"
+end
 
-    return search(data, node.left) || search(data, node.right)
-  end
+def _search(data, node)
+  return node.data == data || _search(data, node.left) || _search(data, node.right) if node
+
   false
 end
 
-def formatted_print(tree, expression)
+def print_tree(expression, tree)
   result = []
-  _expression_tree(tree, expression, result)
+  _expression_tree(expression, tree, result)
   puts result.join(' ')
 end
 
-def _expression_tree(node, expression, result)
+def _expression_tree(expression, node, result)
   return unless node
 
   result.push(node.data) if expression == 'PREFIXA'
-  _expression_tree(node.left, expression, result)
+  _expression_tree(expression, node.left, result)
   result.push(node.data) if expression == 'INFIXA'
-  _expression_tree(node.right, expression, result)
+  _expression_tree(expression, node.right, result)
   result.push(node.data) if expression == 'POSFIXA'
 end
 
@@ -49,15 +50,10 @@ data = gets.split[1]
 tree = Node.new data
 while line = gets
   if line.include? ' '
-    command, data = line.strip.split 
-    if command == 'I'
-      insert(data, tree)
-    elsif search(data, tree)
-      puts "#{data} existe"
-    else
-      puts "#{data} nao existe"
-    end
+    command, data = line.strip.split
+    command == 'I' ? insert(data, tree) : print_search(data, tree)
   else
-    formatted_print(tree, line.strip)
+    expression = line.strip
+    print_tree(expression, tree)
   end
 end
