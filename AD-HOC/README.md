@@ -140,6 +140,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [3024](/AD-HOC/3024/) | [Mountain Ranges](https://resources.beecrowd.com/repository/UOJ_3024.html)
 
+[3048](/AD-HOC/3048/) | [Sequência Secreta](https://resources.beecrowd.com/repository/UOJ_3048.html)
+
 [3058](/AD-HOC/3058/) | [Supermercado](https://www.beecrowd.com.br/repository/UOJ_3058.html)
 
 [3109](/AD-HOC/3109/) | [Trocando de Mesa](https://www.beecrowd.com.br/repository/UOJ_3109.html)
