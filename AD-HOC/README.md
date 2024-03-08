@@ -68,6 +68,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1546](/AD-HOC/1546/) | [Feedback](https://www.beecrowd.com.br/repository/UOJ_1546.html)
 
+[1547](/AD-HOC/1547/) | [Adivinha](https://resources.beecrowd.com/repository/UOJ_1547.html)
+
 [1573](/AD-HOC/1573/) | [Fábrica de Chocolate](https://www.beecrowd.com.br/repository/UOJ_1573.html)
 
 [1743](/AD-HOC/1743/) | [Máquina de Verificação Automatizada](https://resources.beecrowd.com/repository/UOJ_1743.html)
