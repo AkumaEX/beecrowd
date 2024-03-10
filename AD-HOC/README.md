@@ -72,6 +72,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1573](/AD-HOC/1573/) | [Fábrica de Chocolate](https://www.beecrowd.com.br/repository/UOJ_1573.html)
 
+[1574](/AD-HOC/1574/) | [Instruções do Robô](https://resources.beecrowd.com/repository/UOJ_1574.html)
+
 [1743](/AD-HOC/1743/) | [Máquina de Verificação Automatizada](https://resources.beecrowd.com/repository/UOJ_1743.html)
 
 [1793](/AD-HOC/1793/) | [Escada Rolante](https://www.beecrowd.com.br/repository/UOJ_1793.html)
