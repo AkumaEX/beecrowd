@@ -74,6 +74,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1574](/AD-HOC/1574/) | [Instruções do Robô](https://resources.beecrowd.com/repository/UOJ_1574.html)
 
+[1715](/AD-HOC/1715/) | [Handebol](https://resources.beecrowd.com/repository/UOJ_1715.html)
+
 [1743](/AD-HOC/1743/) | [Máquina de Verificação Automatizada](https://resources.beecrowd.com/repository/UOJ_1743.html)
 
 [1793](/AD-HOC/1793/) | [Escada Rolante](https://www.beecrowd.com.br/repository/UOJ_1793.html)
