@@ -78,6 +78,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1743](/AD-HOC/1743/) | [Máquina de Verificação Automatizada](https://resources.beecrowd.com/repository/UOJ_1743.html)
 
+[1765](/AD-HOC/1765/) | [Trapézios de Natal](https://resources.beecrowd.com/repository/UOJ_1765.html)
+
 [1793](/AD-HOC/1793/) | [Escada Rolante](https://www.beecrowd.com.br/repository/UOJ_1793.html)
 
 [1794](/AD-HOC/1794/) | [Lavanderia](https://www.beecrowd.com.br/repository/UOJ_1794.html)
