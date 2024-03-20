@@ -24,6 +24,8 @@ Palíndromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings
 
 [1632](/STRINGS/1632/) | [Variações](https://resources.beecrowd.com/repository/UOJ_1632.html)
 
+[1768](/STRINGS/1768/) | [Árvore de Natal](https://resources.beecrowd.com/repository/UOJ_1768.html)
+
 [1871](/STRINGS/1871/) | [Zero vale Zero](https://www.beecrowd.com.br/repository/UOJ_1871.html)
 
 [2157](/STRINGS/2157/) | [Sequência Espelho](https://www.beecrowd.com.br/repository/UOJ_2157.html)
