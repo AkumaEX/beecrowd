@@ -28,6 +28,8 @@ Filas, Pilhas, Ordenação, Mapas...
 
 [2496](/ESTRUTURAS/2496/) | [A Única Chance](https://www.beecrowd.com.br/repository/UOJ_2496.html)
 
+[2633](/ESTRUTURAS/2633/) | [Churras no Yuri](https://resources.beecrowd.com/repository/UOJ_2633.html)
+
 [3171](/ESTRUTURAS/3171/) | [Cordão de Led](https://www.beecrowd.com.br/repository/UOJ_3171.html)
 
 [3176](/ESTRUTURAS/3176/) | [Time de Duendes](https://www.beecrowd.com.br/repository/UOJ_3176.html)
