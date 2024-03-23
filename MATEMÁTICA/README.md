@@ -28,6 +28,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1429](/MATEMÁTICA/1429/) | [Fatorial de Novo!](https://www.beecrowd.com.br/repository/UOJ_1429.html)
 
+[1436](/MATEMÁTICA/1436/) | [Jogo do Tijolo](https://resources.beecrowd.com/repository/UOJ_1436.html)
+
 [1457](/MATEMÁTICA/1457/) | [Oráculo de Alexandria](https://www.beecrowd.com.br/repository/UOJ_1457.html)
 
 [1555](/MATEMÁTICA/1555/) | [Funções](https://www.beecrowd.com.br/repository/UOJ_1555.html)
