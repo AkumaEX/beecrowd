@@ -55,3 +55,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1038](/INICIANTE/1038/) | [Lanche](https://resources.beecrowd.com/repository/UOJ_1038.html)
 
 [1040](/INICIANTE/1040/) | [Média 3](https://resources.beecrowd.com/repository/UOJ_1040.html)
+
+[1042](/INICIANTE/1042/) | [Sort Simples](https://resources.beecrowd.com/repository/UOJ_1042.html)
