@@ -34,9 +34,11 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1555](/MATEMÁTICA/1555/) | [Funções](https://www.beecrowd.com.br/repository/UOJ_1555.html)
 
+[1630](/MATEMÁTICA/1630/) | [Estacas](https://beecrowd.com.br/repository/UOJ_1630.html)
+
 [1761](/MATEMÁTICA/1761/) | [Decoração Natalina](https://beecrowd.com.br/repository/UOJ_1761.html)
 
-[1630](/MATEMÁTICA/1630/) | [Estacas](https://beecrowd.com.br/repository/UOJ_1630.html)
+[1795](/MATEMÁTICA/1795/) | [Triângulo Trinomial](https://resources.beecrowd.com/repository/UOJ_1795.html)
 
 [2044](/MATEMÁTICA/2044/) | [Em Dívida](https://www.beecrowd.com.br/repository/UOJ_2044.html)
 
