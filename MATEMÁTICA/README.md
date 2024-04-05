@@ -24,6 +24,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1247](/MATEMÁTICA/1247/) | [Guarda Costeira](https://www.beecrowd.com.br/repository/UOJ_1247.html)
 
+[1306](/MATEMÁTICA/1306/) | [Numerando Estradas](https://resources.beecrowd.com/repository/UOJ_1306.html)
+
 [1323](/MATEMÁTICA/1323/) | [Feynman](https://www.beecrowd.com.br/repository/UOJ_1323.html)
 
 [1429](/MATEMÁTICA/1429/) | [Fatorial de Novo!](https://www.beecrowd.com.br/repository/UOJ_1429.html)
