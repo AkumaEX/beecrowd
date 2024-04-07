@@ -38,6 +38,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1630](/MATEMÁTICA/1630/) | [Estacas](https://beecrowd.com.br/repository/UOJ_1630.html)
 
+[1641](/MATEMÁTICA/1641/) | [Restaurante e Pizzaria do Alfredo](https://resources.beecrowd.com/repository/UOJ_1641.html)
+
 [1761](/MATEMÁTICA/1761/) | [Decoração Natalina](https://beecrowd.com.br/repository/UOJ_1761.html)
 
 [1795](/MATEMÁTICA/1795/) | [Triângulo Trinomial](https://resources.beecrowd.com/repository/UOJ_1795.html)
