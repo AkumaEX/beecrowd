@@ -84,6 +84,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1794](/AD-HOC/1794/) | [Lavanderia](https://www.beecrowd.com.br/repository/UOJ_1794.html)
 
+[1796](/AD-HOC/1796/) | [Economia Brasileira](https://resources.beecrowd.com/repository/UOJ_1796.html)
+
 [1936](/AD-HOC/1936/) | [Fatorial](https://www.beecrowd.com.br/repository/UOJ_1936.html)
 
 [1943](/AD-HOC/1943/) | [Top N](https://www.beecrowd.com.br/repository/UOJ_1943.html)
