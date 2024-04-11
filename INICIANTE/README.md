@@ -63,3 +63,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1044](/INICIANTE/1044/) | [Múltiplos](https://resources.beecrowd.com/repository/UOJ_1044.html)
 
 [1045](/INICIANTE/1045/) | [Tipos de Triângulos](https://resources.beecrowd.com/repository/UOJ_1045.html)
+
+[1046](/INICIANTE/1046/) | [Tempo de Jogo](https://resources.beecrowd.com/repository/UOJ_1046.html)
