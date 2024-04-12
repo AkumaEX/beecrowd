@@ -94,6 +94,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1986](/AD-HOC/1986/) | [Perdido de Marte](https://www.beecrowd.com.br/repository/UOJ_1986.html)
 
+[1987](/AD-HOC/1987/) | [Divisibilidade Por 3](https://resources.beecrowd.com/repository/UOJ_1987.html)
+
 [2058](/AD-HOC/2058/) | [Triângulos e Polígonos Regulares](https://resources.beecrowd.com/repository/UOJ_2058.html)
 
 [2187](/AD-HOC/2187/) | [Bits Trocados](https://www.beecrowd.com.br/repository/UOJ_2187.html)
