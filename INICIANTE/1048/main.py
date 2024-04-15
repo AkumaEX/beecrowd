@@ -10,9 +10,7 @@ def readjustment_rate(salary):
     return 0.15
 
 
-def formatted_print(salary, percentage):
-    money_earned = salary * percentage
-    new_salary = salary + money_earned
+def formatted_print(new_salary, money_earned, percentage):
     print(f'Novo salario: {new_salary:.2f}')
     print(f'Reajuste ganho: {money_earned:.2f}')
     print(f'Em percentual: {percentage * 100:.0f} %')
@@ -20,4 +18,6 @@ def formatted_print(salary, percentage):
 
 salary = float(input())
 percentage = readjustment_rate(salary)
-formatted_print(salary, percentage)
+money_earned = salary * percentage
+new_salary = salary + money_earned
+formatted_print(new_salary, money_earned, percentage)

@@ -67,3 +67,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1046](/INICIANTE/1046/) | [Tempo de Jogo](https://resources.beecrowd.com/repository/UOJ_1046.html)
 
 [1047](/INICIANTE/1047/) | [Tempo de Jogo com Minutos](https://resources.beecrowd.com/repository/UOJ_1047.html)
+
+[1048](/INICIANTE/1048/) | [Aumento de Salário](https://resources.beecrowd.com/repository/UOJ_1048.html)
