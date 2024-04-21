@@ -108,6 +108,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2189](/AD-HOC/2189/) | [Quermesse](https://www.beecrowd.com.br/repository/UOJ_2189.html)
 
+[2247](/AD-HOC/2247/) | [Cofrinhos da Vó Vitória](https://resources.beecrowd.com/repository/UOJ_2247.html)
+
 [2328](/AD-HOC/2328/) | [Chocolate](https://www.beecrowd.com.br/repository/UOJ_2328.html)
 
 [2339](/AD-HOC/2339/) | [Aviões de Papel](https://www.beecrowd.com.br/repository/UOJ_2339.html)
