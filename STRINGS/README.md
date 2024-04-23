@@ -30,4 +30,6 @@ Palíndromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings
 
 [2157](/STRINGS/2157/) | [Sequência Espelho](https://www.beecrowd.com.br/repository/UOJ_2157.html)
 
+[2587](/STRINGS/2587/) | [Jequiti](https://resources.beecrowd.com/repository/UOJ_2587.html)
+
 [3358](/STRINGS/3358/) | [Sobrenome Não é Fácil](https://www.beecrowd.com.br/repository/UOJ_3358.html)
