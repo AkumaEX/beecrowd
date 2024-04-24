@@ -6,6 +6,8 @@ Pontos e Linhas, Polígonos...
 
 [1039](/GEOMETRIA/1039/) | [Flores de Fogo](https://www.beecrowd.com.br/repository/UOJ_1039.html)
 
+[1292](/GEOMETRIA/1292/) | [Problema com um Pentágono](https://resources.beecrowd.com/repository/UOJ_1292.html)
+
 [1783](/GEOMETRIA/1783/) | [Ih, Ferrou, um Buraco Negro!](https://www.beecrowd.com.br/repository/UOJ_1783.html)
 
 [1875](/GEOMETRIA/1875/) | [Tribol](https://www.beecrowd.com.br/repository/UOJ_1875.html)
