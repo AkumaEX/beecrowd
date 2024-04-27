@@ -1,26 +1,29 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
 
-    static double percentageAboveAverage(Scanner scanner) {
+    static int[] getGrades(Scanner scanner) {
         int n = scanner.nextInt();
         int[] grades = new int[n];
-        double average = 0;
         for (int i = 0; i < n; i++)
-            average += grades[i] = scanner.nextInt();
-        average /= n;
-        int aboveAverage = 0;
-        for (int i = 0; i < n; i++)
-            if (grades[i] > average)
-                aboveAverage++;
-        return ((double) aboveAverage / n) * 100;
+            grades[i] = scanner.nextInt();
+        return grades;
+    }
+
+    static double percentageAboveAverage(int[] grades) {
+        double average = Arrays.stream(grades).reduce(0, Integer::sum) / grades.length;
+        double aboveAverage = Arrays.stream(grades).filter(grade -> grade > average).count();
+        return 100 * aboveAverage / grades.length;
     }
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int c = scanner.nextInt();
-        for (int times = 0; times < c; times++)
-            System.out.printf("%.3f%%\n", percentageAboveAverage(scanner));
+        while (c-- > 0) {
+            int[] grades = getGrades(scanner);
+            System.out.printf("%.3f%%\n", percentageAboveAverage(grades));
+        }
         scanner.close();
     }
 }
