@@ -14,4 +14,6 @@ Pontos e Linhas, Polígonos...
 
 [1875](/GEOMETRIA/1875/) | [Tribol](https://www.beecrowd.com.br/repository/UOJ_1875.html)
 
+[2518](/GEOMETRIA/2518/) | [Escada do DINF](https://resources.beecrowd.com/repository/UOJ_2518.html)
+
 [2840](/GEOMETRIA/2840/) | [Balão++](https://www.beecrowd.com.br/repository/UOJ_2840.html)
