@@ -17,3 +17,5 @@ Pontos e Linhas, Polígonos...
 [2518](/GEOMETRIA/2518/) | [Escada do DINF](https://resources.beecrowd.com/repository/UOJ_2518.html)
 
 [2840](/GEOMETRIA/2840/) | [Balão++](https://www.beecrowd.com.br/repository/UOJ_2840.html)
+
+[3152](/GEOMETRIA/3152/) | [Samuel, O Cafeicultor](https://resources.beecrowd.com/repository/UOJ_3152.html)
