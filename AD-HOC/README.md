@@ -118,6 +118,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2342](/AD-HOC/2342/) | [Overflow](https://resources.beecrowd.com/repository/UOJ_2342.html)
 
+[2345](/AD-HOC/2345/) | [Assigning Teams](https://resources.beecrowd.com/repository/UOJ_2345.html)
+
 [2369](/AD-HOC/2369/) | [Conta de Água](https://www.beecrowd.com.br/repository/UOJ_2369.html)
 
 [2373](/AD-HOC/2373/) | [Garçom](https://resources.beecrowd.com/repository/UOJ_2373.html)
