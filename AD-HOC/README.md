@@ -140,6 +140,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2395](/AD-HOC/2395/) | [Transporte de Contêineres](https://resources.beecrowd.com/repository/UOJ_2395.html)
 
+[2396](/AD-HOC/2396/) | [Corrida](https://resources.beecrowd.com/repository/UOJ_2396.html)
+
 [2408](/AD-HOC/2408/) | [Vice-Campeão](https://www.beecrowd.com.br/repository/UOJ_2408.html)
 
 [2413](/AD-HOC/2413/) | [Busca na Internet](https://www.beecrowd.com.br/repository/UOJ_2413.html)
