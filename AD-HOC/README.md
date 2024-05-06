@@ -142,6 +142,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2396](/AD-HOC/2396/) | [Corrida](https://resources.beecrowd.com/repository/UOJ_2396.html)
 
+[2399](/AD-HOC/2399/) | [Campo Minado](https://resources.beecrowd.com/repository/UOJ_2399.html)
+
 [2408](/AD-HOC/2408/) | [Vice-Campeão](https://www.beecrowd.com.br/repository/UOJ_2408.html)
 
 [2413](/AD-HOC/2413/) | [Busca na Internet](https://www.beecrowd.com.br/repository/UOJ_2413.html)
