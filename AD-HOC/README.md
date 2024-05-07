@@ -98,6 +98,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1987](/AD-HOC/1987/) | [Divisibilidade Por 3](https://resources.beecrowd.com/repository/UOJ_1987.html)
 
+[1997](/AD-HOC/1997/) | [Branco e Preto](https://resources.beecrowd.com/repository/UOJ_1997.html)
+
 [2058](/AD-HOC/2058/) | [Triângulos e Polígonos Regulares](https://resources.beecrowd.com/repository/UOJ_2058.html)
 
 [2116](/AD-HOC/2116/) | [Diversão dos Alunos](https://resources.beecrowd.com/repository/UOJ_2116.html)
