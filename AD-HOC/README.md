@@ -152,6 +152,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2414](/AD-HOC/2414/) | [Desafio do Maior Número](https://www.beecrowd.com.br/repository/UOJ_2414.html)
 
+[2415](/AD-HOC/2415/) | [Consecutivos](https://resources.beecrowd.com/repository/UOJ_2415.html)
+
 [2416](/AD-HOC/2416/) | [Corrida](https://www.beecrowd.com.br/repository/UOJ_2416.html)
 
 [2417](/AD-HOC/2417/) | [Campeonato](https://www.beecrowd.com.br/repository/UOJ_2417.html)
