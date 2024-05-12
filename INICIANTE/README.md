@@ -71,3 +71,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1048](/INICIANTE/1048/) | [Aumento de Salário](https://resources.beecrowd.com/repository/UOJ_1048.html)
 
 [1049](/INICIANTE/1049/) | [Animal](https://resources.beecrowd.com/repository/UOJ_1049.html)
+
+[1050](/INICIANTE/1050/) | [DDD](https://resources.beecrowd.com/repository/UOJ_1050.html)
