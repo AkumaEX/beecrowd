@@ -73,3 +73,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1049](/INICIANTE/1049/) | [Animal](https://resources.beecrowd.com/repository/UOJ_1049.html)
 
 [1050](/INICIANTE/1050/) | [DDD](https://resources.beecrowd.com/repository/UOJ_1050.html)
+
+[1052](/INICIANTE/1052/) | [Mês](https://resources.beecrowd.com/repository/UOJ_1052.html)
