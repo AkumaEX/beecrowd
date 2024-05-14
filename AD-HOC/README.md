@@ -162,6 +162,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2420](/AD-HOC/2420/) | [Guerra por Território](https://resources.beecrowd.com/repository/UOJ_2420.html)
 
+[2423](/AD-HOC/2423/) | [Receita de Bolo](https://resources.beecrowd.com/repository/UOJ_2423.html)
+
 [2424](/AD-HOC/2424/) | [Tira-teima](https://resources.beecrowd.com/repository/UOJ_2424.html)
 
 [2434](/AD-HOC/2434/) | [Saldo do Vovô](https://www.beecrowd.com.br/repository/UOJ_2434.html)
