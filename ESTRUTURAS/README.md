@@ -26,6 +26,8 @@ Filas, Pilhas, Ordenação, Mapas...
 
 [1548](/ESTRUTURAS/1548/) | [Fila do Recreio](https://www.beecrowd.com.br/repository/UOJ_1548.html)
 
+[1763](/ESTRUTURAS/1763/) | [Tradutor do Papai Noel](https://judge.beecrowd.com/pt/problems/view/1763)
+
 [1874](/ESTRUTURAS/1874/) | [Empurrando Blocos](https://www.beecrowd.com.br/repository/UOJ_1874.html)
 
 [2482](/ESTRUTURAS/2482/) | [Etiquetas de Noel](https://www.beecrowd.com.br/repository/UOJ_2482.html)
