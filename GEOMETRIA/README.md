@@ -8,6 +8,8 @@ Pontos e Linhas, Polígonos...
 
 [1292](/GEOMETRIA/1292/) | [Problema com um Pentágono](https://resources.beecrowd.com/repository/UOJ_1292.html)
 
+[1549](/GEOMETRIA/1549/) | [Dividindo a Coca](https://resources.beecrowd.com/repository/UOJ_1549.html)
+
 [1631](/GEOMETRIA/1631/) | [O Fantástico Bolo de Bobby](https://resources.beecrowd.com/repository/UOJ_1631.html)
 
 [1783](/GEOMETRIA/1783/) | [Ih, Ferrou, um Buraco Negro!](https://www.beecrowd.com.br/repository/UOJ_1783.html)
