@@ -77,3 +77,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1052](/INICIANTE/1052/) | [Mês](https://resources.beecrowd.com/repository/UOJ_1052.html)
 
 [1059](/INICIANTE/1059/) | [Números Pares](https://resources.beecrowd.com/repository/UOJ_1059.html)
+
+[1060](/INICIANTE/1060/) | [Números Positivos](https://resources.beecrowd.com/repository/UOJ_1060.html)
