@@ -166,6 +166,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2424](/AD-HOC/2424/) | [Tira-teima](https://resources.beecrowd.com/repository/UOJ_2424.html)
 
+[2427](/AD-HOC/2427/) | [Chocolate](https://resources.beecrowd.com/repository/UOJ_2427.html)
+
 [2434](/AD-HOC/2434/) | [Saldo do Vovô](https://www.beecrowd.com.br/repository/UOJ_2434.html)
 
 [2454](/AD-HOC/2454/) | [Flíper](https://www.beecrowd.com.br/repository/UOJ_2454.html)
