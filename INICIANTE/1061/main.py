@@ -1,28 +1,19 @@
-import datetime
-
-
-def seconds(start_day, start_hour, start_minute, start_second, end_day, end_hour, end_minute, end_second):
-    start_date = datetime.datetime(2024, 4, start_day, start_hour, start_minute, start_second)
-    end_date = datetime.datetime(2024, 4, end_day, end_hour, end_minute, end_second)
-    return int((end_date - start_date).total_seconds())
+def seconds(start_d, start_h, start_m, start_s, end_d, end_h, end_m, end_s):
+    return 86400 * (end_d - start_d) + 3600 * (end_h - start_h) + 60 * (end_m - start_m) + (end_s - start_s)
 
 
 def formatted_print(elapsed):
-    days = elapsed // 86400
+    print(f'{elapsed // 86400} dia(s)')
     elapsed %= 86400
-    hours = elapsed // 3600
+    print(f'{elapsed // 3600} hora(s)')
     elapsed %= 3600
-    minutes = elapsed // 60
-    seconds = elapsed % 60
-    print(f'{days} dia(s)')
-    print(f'{hours} hora(s)')
-    print(f'{minutes} minuto(s)')
-    print(f'{seconds} segundo(s)')
+    print(f'{elapsed // 60} minuto(s)')
+    print(f'{elapsed % 60} segundo(s)')
 
 
-start_day = int(input().split()[1])
-start_hour, start_minute, start_second = map(int, input().split(' : '))
-end_day = int(input().split()[1])
-end_hour, end_minute, end_second = map(int, input().split(' : '))
-elapsed = seconds(start_day, start_hour, start_minute, start_second, end_day, end_hour, end_minute, end_second)
+start_d = int(input().split()[1])
+start_h, start_m, start_s = map(int, input().split(' : '))
+end_d = int(input().split()[1])
+end_h, end_m, end_s = map(int, input().split(' : '))
+elapsed = seconds(start_d, start_h, start_m, start_s, end_d, end_h, end_m, end_s)
 formatted_print(elapsed)

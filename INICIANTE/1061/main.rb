@@ -1,29 +1,21 @@
 # frozen_string_literal:true
 
-require 'date'
-
-def seconds(start_day, start_hour, start_minute, start_second, end_day, end_hour, end_minute, end_second)
-  start_date = Time.new(2024, 4, start_day, start_hour, start_minute, start_second)
-  end_date = Time.new(2024, 4, end_day, end_hour, end_minute, end_second)
-  (end_date - start_date).to_i
+def seconds(start_d, start_h, start_m, start_s, end_d, end_h, end_m, end_s)
+  86_400 * (end_d - start_d) + 3600 * (end_h - start_h) + 60 * (end_m - start_m) + (end_s - start_s)
 end
 
 def formatted_print(elapsed)
-  days = elapsed / 86_400
+  puts "#{elapsed / 86_400} dia(s)"
   elapsed %= 86_400
-  hours = elapsed / 3600
+  puts "#{elapsed / 3600} hora(s)"
   elapsed %= 3600
-  minutes = elapsed / 60
-  seconds = elapsed % 60
-  puts "#{days} dia(s)"
-  puts "#{hours} hora(s)"
-  puts "#{minutes} minuto(s)"
-  puts "#{seconds} segundo(s)"
+  puts "#{elapsed / 60} minuto(s)"
+  puts "#{elapsed % 60} segundo(s)"
 end
 
-start_day = gets.split[1].to_i
-start_hour, start_minute, start_second = gets.split(' : ').map(&:to_i)
-end_day = gets.split[1].to_i
-end_hour, end_minute, end_second = gets.split(' : ').map(&:to_i)
-elapsed = seconds(start_day, start_hour, start_minute, start_second, end_day, end_hour, end_minute, end_second)
+start_d = gets.split[1].to_i
+start_h, start_m, start_s = gets.split(' : ').map(&:to_i)
+end_d = gets.split[1].to_i
+end_h, end_m, end_s = gets.split(' : ').map(&:to_i)
+elapsed = seconds(start_d, start_h, start_m, start_s, end_d, end_h, end_m, end_s)
 formatted_print(elapsed)

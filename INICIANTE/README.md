@@ -79,3 +79,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1059](/INICIANTE/1059/) | [Números Pares](https://resources.beecrowd.com/repository/UOJ_1059.html)
 
 [1060](/INICIANTE/1060/) | [Números Positivos](https://resources.beecrowd.com/repository/UOJ_1060.html)
+
+[1061](/INICIANTE/1061/) | [Tempo de um Evento](https://resources.beecrowd.com/repository/UOJ_1061.html)
