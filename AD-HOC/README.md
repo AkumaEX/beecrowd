@@ -172,6 +172,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2435](/AD-HOC/2435/) | [Corrida](https://resources.beecrowd.com/repository/UOJ_2435.html)
 
+[2443](/AD-HOC/2443/) | [Soma de Frações](https://resources.beecrowd.com/repository/UOJ_2443.html)
+
 [2454](/AD-HOC/2454/) | [Flíper](https://www.beecrowd.com.br/repository/UOJ_2454.html)
 
 [2455](/AD-HOC/2455/) | [Gangorra](https://www.beecrowd.com.br/repository/UOJ_2455.html)
