@@ -180,6 +180,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2455](/AD-HOC/2455/) | [Gangorra](https://www.beecrowd.com.br/repository/UOJ_2455.html)
 
+[2456](/AD-HOC/2456/) | [Cartas](https://resources.beecrowd.com/repository/UOJ_2456.html)
+
 [2466](/AD-HOC/2466/) | [Sinuca](https://resources.beecrowd.com/repository/UOJ_2466.html)
 
 [2479](/AD-HOC/2479/) | [Ordenando a Lista de Crianças do Papai Noel](https://resources.beecrowd.com/repository/UOJ_2479.html)
