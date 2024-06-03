@@ -81,3 +81,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1060](/INICIANTE/1060/) | [Números Positivos](https://resources.beecrowd.com/repository/UOJ_1060.html)
 
 [1061](/INICIANTE/1061/) | [Tempo de um Evento](https://resources.beecrowd.com/repository/UOJ_1061.html)
+
+[1064](/INICIANTE/1064/) | [Positivos e Média](https://resources.beecrowd.com/repository/UOJ_1064.html)
