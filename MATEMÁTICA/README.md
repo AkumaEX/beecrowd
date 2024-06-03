@@ -56,6 +56,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [2598](/MATEMÁTICA/2598/) | [Colocando Radares](https://resources.beecrowd.com/repository/UOJ_2598.html)
 
+[2667](/MATEMÁTICA/2667/) | [Jogo de Boca](https://resources.beecrowd.com/repository/UOJ_2667.html)
+
 [2839](/MATEMÁTICA/2839/) | [As Meias de Rangel](https://www.beecrowd.com.br/repository/UOJ_2839.html)
 
 [3049](/MATEMÁTICA/3049/) | [Nota Cortada](https://www.beecrowd.com.br/repository/UOJ_3049.html)
