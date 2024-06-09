@@ -83,3 +83,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1061](/INICIANTE/1061/) | [Tempo de um Evento](https://resources.beecrowd.com/repository/UOJ_1061.html)
 
 [1064](/INICIANTE/1064/) | [Positivos e Média](https://resources.beecrowd.com/repository/UOJ_1064.html)
+
+[1065](/INICIANTE/1065/) | [Pares entre Cinco Números](https://resources.beecrowd.com/repository/UOJ_1065.html)
