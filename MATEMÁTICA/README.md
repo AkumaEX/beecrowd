@@ -50,6 +50,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [2232](/MATEMÁTICA/2232/) | [Triângulo de Pascal](https://www.beecrowd.com.br/repository/UOJ_2232.html)
 
+[2489](/MATEMÁTICA/2489/) | [Flecha no Coelho](https://resources.beecrowd.com/repository/UOJ_2489.html)
+
 [2497](/MATEMÁTICA/2497/) | [Contando Ciclos](https://www.beecrowd.com.br/repository/UOJ_2497.html)
 
 [2516](/MATEMÁTICA/2516/) | [Corrida](https://resources.beecrowd.com/repository/UOJ_2516.html)
