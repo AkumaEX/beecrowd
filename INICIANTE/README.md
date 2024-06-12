@@ -85,3 +85,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1064](/INICIANTE/1064/) | [Positivos e Média](https://resources.beecrowd.com/repository/UOJ_1064.html)
 
 [1065](/INICIANTE/1065/) | [Pares entre Cinco Números](https://resources.beecrowd.com/repository/UOJ_1065.html)
+
+[1066](/INICIANTE/1066/) | [Pares, Ímpares, Positivos e Negativos](https://resources.beecrowd.com/repository/UOJ_1066.html)
