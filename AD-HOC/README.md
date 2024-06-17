@@ -200,6 +200,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [3058](/AD-HOC/3058/) | [Supermercado](https://www.beecrowd.com.br/repository/UOJ_3058.html)
 
+[3059](/AD-HOC/3059/) | [Pares de Números](https://resources.beecrowd.com/repository/UOJ_3059.html)
+
 [3109](/AD-HOC/3109/) | [Trocando de Mesa](https://www.beecrowd.com.br/repository/UOJ_3109.html)
 
 [3126](/AD-HOC/3126/) | [Lista de Treinamento](https://resources.beecrowd.com/repository/UOJ_3126.html)
