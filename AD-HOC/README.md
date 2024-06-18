@@ -188,6 +188,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2479](/AD-HOC/2479/) | [Ordenando a Lista de Crianças do Papai Noel](https://resources.beecrowd.com/repository/UOJ_2479.html)
 
+[2592](/AD-HOC/2592/) | [VaiNaSort](https://resources.beecrowd.com/repository/UOJ_2592.html)
+
 [2679](/AD-HOC/2679/) | [Sucessor Par](https://www.beecrowd.com.br/repository/UOJ_2679.html)
 
 [2868](/AD-HOC/2868/) | [Errrou!](https://www.beecrowd.com.br/repository/UOJ_2868.html)
