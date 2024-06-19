@@ -32,6 +32,8 @@ Palíndromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings
 
 [1871](/STRINGS/1871/) | [Zero vale Zero](https://www.beecrowd.com.br/repository/UOJ_1871.html)
 
+[1873](/STRINGS/1873/) | [Pedra-papel-tesoura-lagarto-Spock](https://resources.beecrowd.com/repository/UOJ_1873.html)
+
 [2157](/STRINGS/2157/) | [Sequência Espelho](https://www.beecrowd.com.br/repository/UOJ_2157.html)
 
 [2587](/STRINGS/2587/) | [Jequiti](https://resources.beecrowd.com/repository/UOJ_2587.html)
