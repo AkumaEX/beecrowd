@@ -10,6 +10,8 @@ Filas, Pilhas, Ordenação, Mapas...
 
 [1110](/ESTRUTURAS/1110/) | [Jogando Cartas Fora](https://www.beecrowd.com.br/repository/UOJ_1110.html)
 
+[1244](/ESTRUTURAS/1244/) | [Ordenação por Tamanho](https://resources.beecrowd.com/repository/UOJ_1244.html)
+
 [1256](/ESTRUTURAS/1256/) | [Tabelas Hash](https://www.beecrowd.com.br/repository/UOJ_1256.html)
 
 [1259](/ESTRUTURAS/1259/) | [Pares e Ímpares](https://www.beecrowd.com.br/repository/UOJ_1259.html)
