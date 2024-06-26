@@ -89,3 +89,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1066](/INICIANTE/1066/) | [Pares, Ímpares, Positivos e Negativos](https://resources.beecrowd.com/repository/UOJ_1066.html)
 
 [1067](/INICIANTE/1067/) | [Números Ímpares](https://resources.beecrowd.com/repository/UOJ_1067.html)
+
+[1070](/INICIANTE/1070/) | [Seis Números Ímpares](https://resources.beecrowd.com/repository/UOJ_1070.html)
