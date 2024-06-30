@@ -95,3 +95,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1071](/INICIANTE/1071/) | [Soma de Impares Consecutivos I](https://resources.beecrowd.com/repository/UOJ_1071.html)
 
 [1072](/INICIANTE/1072/) | [Intervalo 2](https://resources.beecrowd.com/repository/UOJ_1072.html)
+
+[1073](/INICIANTE/1073/) | [Quadrado de Pares](https://resources.beecrowd.com/repository/UOJ_1073.html)
