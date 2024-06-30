@@ -93,3 +93,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1070](/INICIANTE/1070/) | [Seis Números Ímpares](https://resources.beecrowd.com/repository/UOJ_1070.html)
 
 [1071](/INICIANTE/1071/) | [Soma de Impares Consecutivos I](https://resources.beecrowd.com/repository/UOJ_1071.html)
+
+[1072](/INICIANTE/1072/) | [Intervalo 2](https://resources.beecrowd.com/repository/UOJ_1072.html)
