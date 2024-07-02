@@ -18,6 +18,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1197](/MATEMÁTICA/1197/) | [Volta à Faculdade de Física](https://www.beecrowd.com.br/repository/UOJ_1197.html)
 
+[1199](/MATEMÁTICA/1199/) | [Conversão Simples de Base](https://resources.beecrowd.com/repository/UOJ_1199.html)
+
 [1214](/MATEMÁTICA/1214/) | [Acima da Média](https://www.beecrowd.com.br/repository/UOJ_1214.html)
 
 [1240](/MATEMÁTICA/1240/) | [Encaixa ou Não I](https://www.beecrowd.com.br/repository/UOJ_1240.html)
