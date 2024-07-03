@@ -16,6 +16,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1170](/MATEMÁTICA/1170/) | [Blobs](https://www.beecrowd.com.br/repository/UOJ_1170.html)
 
+[1193](/MATEMÁTICA/1193/) | [Conversão entre Bases](https://resources.beecrowd.com/repository/UOJ_1193.html)
+
 [1197](/MATEMÁTICA/1197/) | [Volta à Faculdade de Física](https://www.beecrowd.com.br/repository/UOJ_1197.html)
 
 [1199](/MATEMÁTICA/1199/) | [Conversão Simples de Base](https://resources.beecrowd.com/repository/UOJ_1199.html)
