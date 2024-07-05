@@ -97,3 +97,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1072](/INICIANTE/1072/) | [Intervalo 2](https://resources.beecrowd.com/repository/UOJ_1072.html)
 
 [1073](/INICIANTE/1073/) | [Quadrado de Pares](https://resources.beecrowd.com/repository/UOJ_1073.html)
+
+[1074](/INICIANTE/1074/) | [Par ou Ímpar](https://resources.beecrowd.com/repository/UOJ_1074.html)
