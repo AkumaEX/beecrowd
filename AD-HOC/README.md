@@ -66,6 +66,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1515](/AD-HOC/1515/) | [Hello Galaxy](https://www.beecrowd.com.br/repository/UOJ_1515.html)
 
+[1521](/AD-HOC/1521/) | [O Culpado](https://resources.beecrowd.com/repository/UOJ_1521.html)
+
 [1533](/AD-HOC/1533/) | [Detetive Watson](https://resources.beecrowd.com/repository/UOJ_1533.html)
 
 [1546](/AD-HOC/1546/) | [Feedback](https://www.beecrowd.com.br/repository/UOJ_1546.html)
