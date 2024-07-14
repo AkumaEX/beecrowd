@@ -82,6 +82,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1612](/AD-HOC/1612/) | [Formiguinha](https://resources.beecrowd.com/repository/UOJ_1612.html)
 
+[1708](/AD-HOC/1708/) | [Volta](https://resources.beecrowd.com/repository/UOJ_1708.html)
+
 [1715](/AD-HOC/1715/) | [Handebol](https://resources.beecrowd.com/repository/UOJ_1715.html)
 
 [1743](/AD-HOC/1743/) | [Máquina de Verificação Automatizada](https://resources.beecrowd.com/repository/UOJ_1743.html)
