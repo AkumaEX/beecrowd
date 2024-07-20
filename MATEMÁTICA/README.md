@@ -30,6 +30,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1306](/MATEMÁTICA/1306/) | [Numerando Estradas](https://resources.beecrowd.com/repository/UOJ_1306.html)
 
+[1309](/MATEMÁTICA/1309/) | [Formatação Monetária](https://resources.beecrowd.com/repository/UOJ_1309.html)
+
 [1323](/MATEMÁTICA/1323/) | [Feynman](https://www.beecrowd.com.br/repository/UOJ_1323.html)
 
 [1429](/MATEMÁTICA/1429/) | [Fatorial de Novo!](https://www.beecrowd.com.br/repository/UOJ_1429.html)
