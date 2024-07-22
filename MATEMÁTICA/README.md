@@ -20,6 +20,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1197](/MATEMÁTICA/1197/) | [Volta à Faculdade de Física](https://www.beecrowd.com.br/repository/UOJ_1197.html)
 
+[1198](/MATEMÁTICA/1198/) | [O Bravo Guerreiro Hashmat](https://resources.beecrowd.com/repository/UOJ_1198.html)
+
 [1199](/MATEMÁTICA/1199/) | [Conversão Simples de Base](https://resources.beecrowd.com/repository/UOJ_1199.html)
 
 [1214](/MATEMÁTICA/1214/) | [Acima da Média](https://www.beecrowd.com.br/repository/UOJ_1214.html)
