@@ -46,6 +46,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1555](/MATEMÁTICA/1555/) | [Funções](https://www.beecrowd.com.br/repository/UOJ_1555.html)
 
+[1582](/MATEMÁTICA/1582/) | [O Teorema de Pitágoras](https://resources.beecrowd.com/repository/UOJ_1582.html)
+
 [1630](/MATEMÁTICA/1630/) | [Estacas](https://beecrowd.com.br/repository/UOJ_1630.html)
 
 [1641](/MATEMÁTICA/1641/) | [Restaurante e Pizzaria do Alfredo](https://resources.beecrowd.com/repository/UOJ_1641.html)
