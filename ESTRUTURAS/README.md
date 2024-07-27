@@ -14,6 +14,8 @@ Filas, Pilhas, Ordenação, Mapas...
 
 [1256](/ESTRUTURAS/1256/) | [Tabelas Hash](https://www.beecrowd.com.br/repository/UOJ_1256.html)
 
+[1258](/ESTRUTURAS/1258/) | [Camisetas](https://resources.beecrowd.com/repository/UOJ_1258.html)
+
 [1259](/ESTRUTURAS/1259/) | [Pares e Ímpares](https://www.beecrowd.com.br/repository/UOJ_1259.html)
 
 [1261](/ESTRUTURAS/1261/) | [Pontos de Feno](https://www.beecrowd.com.br/repository/UOJ_1261.html)
