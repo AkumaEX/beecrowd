@@ -103,3 +103,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1075](/INICIANTE/1075/) | [Resto 2](https://resources.beecrowd.com/repository/UOJ_1075.html)
 
 [1078](/INICIANTE/1078/) | [Tabuada](https://resources.beecrowd.com/repository/UOJ_1078.html)
+
+[1079](/INICIANTE/1079/) | [Médias Ponderadas](https://resources.beecrowd.com/repository/UOJ_1079.html)
