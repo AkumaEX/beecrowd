@@ -107,3 +107,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1079](/INICIANTE/1079/) | [Médias Ponderadas](https://resources.beecrowd.com/repository/UOJ_1079.html)
 
 [1080](/INICIANTE/1080/) | [Maior e Posição](https://resources.beecrowd.com/repository/UOJ_1080.html)
+
+[1094](/INICIANTE/1094/) | [Experiências](https://resources.beecrowd.com/repository/UOJ_1094.html)
