@@ -98,6 +98,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1800](/AD-HOC/1800/) | [Onde Estão Minhas Chaves](https://resources.beecrowd.com/repository/UOJ_1800.html)
 
+[1802](/AD-HOC/1802/) | [Catálogo de Livros](https://resources.beecrowd.com/repository/UOJ_1802.html)
+
 [1808](/AD-HOC/1808/) | [O Retorno do Rei](https://resources.beecrowd.com/repository/UOJ_1808.html)
 
 [1890](/AD-HOC/1890/) | [Emplacando os Tuk-tuks](https://resources.beecrowd.com/repository/UOJ_1890.html)
