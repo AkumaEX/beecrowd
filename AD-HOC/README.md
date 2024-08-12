@@ -216,6 +216,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2567](/AD-HOC/2567/) | [Vírus](https://resources.beecrowd.com/repository/UOJ_2567.html)
 
+[2568](/AD-HOC/2568/) | [Ações](https://resources.beecrowd.com/repository/UOJ_2568.html)
+
 [2592](/AD-HOC/2592/) | [VaiNaSort](https://resources.beecrowd.com/repository/UOJ_2592.html)
 
 [2679](/AD-HOC/2679/) | [Sucessor Par](https://www.beecrowd.com.br/repository/UOJ_2679.html)
