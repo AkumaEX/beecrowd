@@ -38,6 +38,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1267](/AD-HOC/1267/) | [Biblioteca Pascal](https://www.beecrowd.com.br/repository/UOJ_1267.html)
 
+[1285](/AD-HOC/1285/) | [Dígitos Diferentes](https://resources.beecrowd.com/repository/UOJ_1285.html)
+
 [1300](/AD-HOC/1300/) | [Horas e Minutos](https://www.beecrowd.com.br/repository/UOJ_1300.html)
 
 [1318](/AD-HOC/1318/) | [Bilhetes Falsos](https://www.beecrowd.com.br/repository/UOJ_1318.html)
