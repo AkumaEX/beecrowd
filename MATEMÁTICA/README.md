@@ -44,6 +44,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1457](/MATEMÁTICA/1457/) | [Oráculo de Alexandria](https://www.beecrowd.com.br/repository/UOJ_1457.html)
 
+[1512](/MATEMÁTICA/1512/) | [Azulejos](https://resources.beecrowd.com/repository/UOJ_1512.html)
+
 [1555](/MATEMÁTICA/1555/) | [Funções](https://www.beecrowd.com.br/repository/UOJ_1555.html)
 
 [1582](/MATEMÁTICA/1582/) | [O Teorema de Pitágoras](https://resources.beecrowd.com/repository/UOJ_1582.html)
