@@ -46,6 +46,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1512](/MATEMÁTICA/1512/) | [Azulejos](https://resources.beecrowd.com/repository/UOJ_1512.html)
 
+[1554](/MATEMÁTICA/1554/) | [Bilhar N+1](https://resources.beecrowd.com/repository/UOJ_1554.html)
+
 [1555](/MATEMÁTICA/1555/) | [Funções](https://www.beecrowd.com.br/repository/UOJ_1555.html)
 
 [1582](/MATEMÁTICA/1582/) | [O Teorema de Pitágoras](https://resources.beecrowd.com/repository/UOJ_1582.html)
