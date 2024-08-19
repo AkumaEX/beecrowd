@@ -111,3 +111,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1094](/INICIANTE/1094/) | [Experiências](https://resources.beecrowd.com/repository/UOJ_1094.html)
 
 [1095](/INICIANTE/1095/) | [Sequencia IJ 1](https://resources.beecrowd.com/repository/UOJ_1095.html)
+
+[1096](/INICIANTE/1096/) | [Sequencia IJ 2](https://resources.beecrowd.com/repository/UOJ_1096.html)
