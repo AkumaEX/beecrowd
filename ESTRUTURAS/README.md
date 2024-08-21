@@ -44,6 +44,8 @@ Filas, Pilhas, Ordenação, Mapas...
 
 [2633](/ESTRUTURAS/2633/) | [Churras no Yuri](https://resources.beecrowd.com/repository/UOJ_2633.html)
 
+[2693](/ESTRUTURAS/2693/) | [Van](https://resources.beecrowd.com/repository/UOJ_2693.html)
+
 [3160](/ESTRUTURAS/3160/) | [Amigos](https://resources.beecrowd.com/repository/UOJ_3160.html)
 
 [3171](/ESTRUTURAS/3171/) | [Cordão de Led](https://www.beecrowd.com.br/repository/UOJ_3171.html)
