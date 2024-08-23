@@ -115,3 +115,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1096](/INICIANTE/1096/) | [Sequencia IJ 2](https://resources.beecrowd.com/repository/UOJ_1096.html)
 
 [1097](/INICIANTE/1097/) | [Sequencia IJ 3](https://resources.beecrowd.com/repository/UOJ_1097.html)
+
+[1099](/INICIANTE/1099/) | [Soma de Ímpares Consecutivos II](https://resources.beecrowd.com/repository/UOJ_1099.html)
