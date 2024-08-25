@@ -119,3 +119,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1099](/INICIANTE/1099/) | [Soma de Ímpares Consecutivos II](https://resources.beecrowd.com/repository/UOJ_1099.html)
 
 [1101](/INICIANTE/1101/) | [Sequência de Números e Soma](https://resources.beecrowd.com/repository/UOJ_1101.html)
+
+[1113](/INICIANTE/1113/) | [Crescente e Decrescente](https://resources.beecrowd.com/repository/UOJ_1113.html)
