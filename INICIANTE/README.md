@@ -123,3 +123,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1113](/INICIANTE/1113/) | [Crescente e Decrescente](https://resources.beecrowd.com/repository/UOJ_1113.html)
 
 [1114](/INICIANTE/1114/) | [Senha Fixa](https://resources.beecrowd.com/repository/UOJ_1114.html)
+
+[1115](/INICIANTE/1115/) | [Quadrante](https://resources.beecrowd.com/repository/UOJ_1115.html)
