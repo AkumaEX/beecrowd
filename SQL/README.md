@@ -12,4 +12,6 @@ Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
 
 [2605](/SQL/2605/) | [Representantes Executivos](https://www.beecrowd.com.br/repository/UOJ_2605.html)
 
-[2607](/SQL/2607/) | [Cidades em Ordem Alfabética]
+[2607](/SQL/2607/) | [Cidades em Ordem Alfabética](https://resources.beecrowd.com/repository/UOJ_2607.html)
+
+[2608](/SQL/2608/) | [Maior e Menor Preço]()
