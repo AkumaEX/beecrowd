@@ -14,4 +14,6 @@ Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
 
 [2607](/SQL/2607/) | [Cidades em Ordem Alfabética](https://resources.beecrowd.com/repository/UOJ_2607.html)
 
-[2608](/SQL/2608/) | [Maior e Menor Preço]()
+[2608](/SQL/2608/) | [Maior e Menor Preço](https://resources.beecrowd.com/repository/UOJ_2608.html)
+
+[2615](/SQL/2615/) | [Expandindo o Negocio](https://resources.beecrowd.com/repository/UOJ_2615.html)
