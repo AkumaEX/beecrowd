@@ -94,6 +94,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1769](/AD-HOC/1769/) | [CPF 1](https://resources.beecrowd.com/repository/UOJ_1769.html)
 
+[1786](/AD-HOC/1786/) | [CPF 2](https://resources.beecrowd.com/repository/UOJ_1786.html)
+
 [1793](/AD-HOC/1793/) | [Escada Rolante](https://www.beecrowd.com.br/repository/UOJ_1793.html)
 
 [1794](/AD-HOC/1794/) | [Lavanderia](https://www.beecrowd.com.br/repository/UOJ_1794.html)
