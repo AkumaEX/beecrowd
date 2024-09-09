@@ -127,3 +127,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1115](/INICIANTE/1115/) | [Quadrante](https://resources.beecrowd.com/repository/UOJ_1115.html)
 
 [1116](/INICIANTE/1116/) | [Dividindo X por Y](https://resources.beecrowd.com/repository/UOJ_1116.html)
+
+[1117](/INICIANTE/1117/) | [Validação de Nota](https://resources.beecrowd.com/repository/UOJ_1117.html)
