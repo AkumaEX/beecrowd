@@ -174,6 +174,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2382](/AD-HOC/2382/) | [Sedex Marciano](https://resources.beecrowd.com/repository/UOJ_2382.html)
 
+[2386](/AD-HOC/2386/) | [Telescópio](https://resources.beecrowd.com/repository/UOJ_2386.html)
+
 [2388](/AD-HOC/2388/) | [Tacógrafo](https://www.beecrowd.com.br/repository/UOJ_2388.html)
 
 [2395](/AD-HOC/2395/) | [Transporte de Contêineres](https://resources.beecrowd.com/repository/UOJ_2395.html)
