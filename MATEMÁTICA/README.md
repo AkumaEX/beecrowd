@@ -62,6 +62,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1795](/MATEMÁTICA/1795/) | [Triângulo Trinomial](https://resources.beecrowd.com/repository/UOJ_1795.html)
 
+[1805](/MATEMÁTICA/1805/) | [Soma Natural](https://resources.beecrowd.com/repository/UOJ_1805.html)
+
 [2044](/MATEMÁTICA/2044/) | [Em Dívida](https://www.beecrowd.com.br/repository/UOJ_2044.html)
 
 [2180](/MATEMÁTICA/2180/) | [Viagem à Marte na Velocidade de Primo](https://resources.beecrowd.com/repository/UOJ_2180.html)
