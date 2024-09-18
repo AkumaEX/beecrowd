@@ -88,6 +88,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1574](/AD-HOC/1574/) | [Instruções do Robô](https://resources.beecrowd.com/repository/UOJ_1574.html)
 
+[1609](/AD-HOC/1609/) | [Contando Carneirinhos](https://resources.beecrowd.com/repository/UOJ_1609.html)
+
 [1612](/AD-HOC/1612/) | [Formiguinha](https://resources.beecrowd.com/repository/UOJ_1612.html)
 
 [1708](/AD-HOC/1708/) | [Volta](https://resources.beecrowd.com/repository/UOJ_1708.html)
