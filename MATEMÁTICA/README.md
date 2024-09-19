@@ -24,6 +24,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1199](/MATEMÁTICA/1199/) | [Conversão Simples de Base](https://resources.beecrowd.com/repository/UOJ_1199.html)
 
+[1212](/MATEMÁTICA/1212/) | [Aritmética Primária](https://resources.beecrowd.com/repository/UOJ_1212.html)
+
 [1214](/MATEMÁTICA/1214/) | [Acima da Média](https://www.beecrowd.com.br/repository/UOJ_1214.html)
 
 [1221](/MATEMÁTICA/1221/) | [Primo Rápido](https://resources.beecrowd.com/repository/UOJ_1221.html)
