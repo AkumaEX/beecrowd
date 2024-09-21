@@ -6,6 +6,8 @@ Filas, Pilhas, Ordenação, Mapas...
 
 [1022](/ESTRUTURAS/1022/) | [TDA Racional](https://www.beecrowd.com.br/repository/UOJ_1022.html)
 
+[1068](/ESTRUTURAS/1068/) | [Balanço de Parênteses I](https://resources.beecrowd.com/repository/UOJ_1068.html)
+
 [1069](/ESTRUTURAS/1069/) | [Diamantes e Areia](https://www.beecrowd.com.br/repository/UOJ_1069.html)
 
 [1110](/ESTRUTURAS/1110/) | [Jogando Cartas Fora](https://www.beecrowd.com.br/repository/UOJ_1110.html)
