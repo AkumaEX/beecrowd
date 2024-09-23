@@ -38,9 +38,11 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1225](/AD-HOC/1225/) | [Coral Perfeito](https://www.beecrowd.com.br/repository/UOJ_1225.html)
 
-[1250](/AD-HOC/1250/) | [KiloMan](https://www.beecrowd.com.br/repository/UOJ_1250.html)
-
 [1228](/AD-HOC/1228/) | [Grid de Largada](https://www.beecrowd.com.br/repository/UOJ_1228.html)
+
+[1245](/AD-HOC/1245/) | [Botas Perdidas](https://resources.beecrowd.com/repository/UOJ_1245.html)
+
+[1250](/AD-HOC/1250/) | [KiloMan](https://www.beecrowd.com.br/repository/UOJ_1250.html)
 
 [1267](/AD-HOC/1267/) | [Biblioteca Pascal](https://www.beecrowd.com.br/repository/UOJ_1267.html)
 
