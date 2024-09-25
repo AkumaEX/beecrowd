@@ -120,6 +120,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1890](/AD-HOC/1890/) | [Emplacando os Tuk-tuks](https://resources.beecrowd.com/repository/UOJ_1890.html)
 
+[1893](/AD-HOC/1893/) | [Fases da Lua](https://resources.beecrowd.com/repository/UOJ_1893.html)
+
 [1936](/AD-HOC/1936/) | [Fatorial](https://www.beecrowd.com.br/repository/UOJ_1936.html)
 
 [1940](/AD-HOC/1940/) | [Jogo da Estratégia](https://resources.beecrowd.com/repository/UOJ_1940.html)
