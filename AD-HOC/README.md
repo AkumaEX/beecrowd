@@ -82,6 +82,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1533](/AD-HOC/1533/) | [Detetive Watson](https://resources.beecrowd.com/repository/UOJ_1533.html)
 
+[1542](/AD-HOC/1542/) | [Lendo Livros](https://resources.beecrowd.com/repository/UOJ_1542.html)
+
 [1546](/AD-HOC/1546/) | [Feedback](https://www.beecrowd.com.br/repository/UOJ_1546.html)
 
 [1547](/AD-HOC/1547/) | [Adivinha](https://resources.beecrowd.com/repository/UOJ_1547.html)
