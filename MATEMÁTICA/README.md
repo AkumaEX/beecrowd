@@ -68,6 +68,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [2044](/MATEMÁTICA/2044/) | [Em Dívida](https://www.beecrowd.com.br/repository/UOJ_2044.html)
 
+[2170](/MATEMÁTICA/2170/) | [Juros do Projeto](https://resources.beecrowd.com/repository/UOJ_2170.html)
+
 [2180](/MATEMÁTICA/2180/) | [Viagem à Marte na Velocidade de Primo](https://resources.beecrowd.com/repository/UOJ_2180.html)
 
 [2232](/MATEMÁTICA/2232/) | [Triângulo de Pascal](https://www.beecrowd.com.br/repository/UOJ_2232.html)
