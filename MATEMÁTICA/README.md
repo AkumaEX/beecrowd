@@ -78,6 +78,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [2497](/MATEMÁTICA/2497/) | [Contando Ciclos](https://www.beecrowd.com.br/repository/UOJ_2497.html)
 
+[2514](/MATEMÁTICA/2514/) | [Alinhamento Lunar](https://resources.beecrowd.com/repository/UOJ_2514.html)
+
 [2516](/MATEMÁTICA/2516/) | [Corrida](https://resources.beecrowd.com/repository/UOJ_2516.html)
 
 [2598](/MATEMÁTICA/2598/) | [Colocando Radares](https://resources.beecrowd.com/repository/UOJ_2598.html)
