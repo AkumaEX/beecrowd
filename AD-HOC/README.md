@@ -38,6 +38,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1217](/AD-HOC/1217/) | [Getline Two - Frutas](https://resources.beecrowd.com/repository/UOJ_1217.html)
 
+[1218](/AD-HOC/1218/) | [Getline Three - Calçados](https://resources.beecrowd.com/repository/UOJ_1218.html)
+
 [1225](/AD-HOC/1225/) | [Coral Perfeito](https://www.beecrowd.com.br/repository/UOJ_1225.html)
 
 [1228](/AD-HOC/1228/) | [Grid de Largada](https://www.beecrowd.com.br/repository/UOJ_1228.html)
