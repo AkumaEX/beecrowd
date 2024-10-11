@@ -160,6 +160,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2286](/AD-HOC/2286/) | [Par ou Ímpar](https://resources.beecrowd.com/repository/UOJ_2286.html)
 
+[2293](/AD-HOC/2293/) | [Campo de Minhocas](https://resources.beecrowd.com/repository/UOJ_2293.html)
+
 [2295](/AD-HOC/2295/) | [Frota de Táxi](https://resources.beecrowd.com/repository/UOJ_2295.html)
 
 [2297](/AD-HOC/2297/) | [Bafo](https://resources.beecrowd.com/repository/UOJ_2297.html)
