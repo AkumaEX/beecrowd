@@ -22,6 +22,8 @@ Filas, Pilhas, Ordenação, Mapas...
 
 [1259](/ESTRUTURAS/1259/) | [Pares e Ímpares](https://www.beecrowd.com.br/repository/UOJ_1259.html)
 
+[1260](/ESTRUTURAS/1260/) | [Espécies de Madeira](https://resources.beecrowd.com/repository/UOJ_1260.html)
+
 [1261](/ESTRUTURAS/1261/) | [Pontos de Feno](https://www.beecrowd.com.br/repository/UOJ_1261.html)
 
 [1281](/ESTRUTURAS/1281/) | [Ida à Feira](https://resources.beecrowd.com/repository/UOJ_1281.html)
