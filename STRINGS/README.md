@@ -26,6 +26,8 @@ Palíndromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings
 
 [1278](/STRINGS/1278/) | [Justificador II](https://resources.beecrowd.com/repository/UOJ_1278.html)
 
+[1332](/STRINGS/1332/) | [Um-Dois-Três](https://resources.beecrowd.com/repository/UOJ_1332.html)
+
 [1581](/STRINGS/1581/) | [Conversa Internacional](https://resources.beecrowd.com/repository/UOJ_1581.html)
 
 [1632](/STRINGS/1632/) | [Variações](https://resources.beecrowd.com/repository/UOJ_1632.html)
