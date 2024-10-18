@@ -12,6 +12,8 @@ Palíndromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings
 
 [1234](/STRINGS/1234/) | [Sentença Dançante](https://www.beecrowd.com.br/repository/UOJ_1234.html)
 
+[1235](/STRINGS/1235/) | [De Dentro para Fora](https://resources.beecrowd.com/repository/UOJ_1235.html)
+
 [1238](/STRINGS/1238/) | [Combinador](https://www.beecrowd.com.br/repository/UOJ_1238.html)
 
 [1239](/STRINGS/1239/) | [Atalhos Bloggo](https://www.beecrowd.com.br/repository/UOJ_1239.html)
