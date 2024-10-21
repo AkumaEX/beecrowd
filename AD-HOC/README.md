@@ -234,6 +234,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2435](/AD-HOC/2435/) | [Corrida](https://resources.beecrowd.com/repository/UOJ_2435.html)
 
+[2437](/AD-HOC/2437/) | [Distância de Manhattan](https://resources.beecrowd.com/repository/UOJ_2437.html)
+
 [2443](/AD-HOC/2443/) | [Soma de Frações](https://resources.beecrowd.com/repository/UOJ_2443.html)
 
 [2444](/AD-HOC/2444/) | [Volume da TV](https://resources.beecrowd.com/repository/UOJ_2444.html)
