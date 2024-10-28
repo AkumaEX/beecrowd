@@ -250,6 +250,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2457](/AD-HOC/2457/) | [Letras](https://resources.beecrowd.com/repository/UOJ_2457.html)
 
+[2460](/AD-HOC/2460/) | [Fila](https://resources.beecrowd.com/repository/UOJ_2460.html)
+
 [2466](/AD-HOC/2466/) | [Sinuca](https://resources.beecrowd.com/repository/UOJ_2466.html)
 
 [2473](/AD-HOC/2473/) | [Loteria](https://resources.beecrowd.com/repository/UOJ_2473.html)
