@@ -142,6 +142,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1953](/AD-HOC/1953/) | [Roberto e a Sala Desenfreada](https://resources.beecrowd.com/repository/UOJ_1953.html)
 
+[1980](/AD-HOC/1980/) | [Embaralhando](https://resources.beecrowd.com/repository/UOJ_1980.html)
+
 [1986](/AD-HOC/1986/) | [Perdido de Marte](https://www.beecrowd.com.br/repository/UOJ_1986.html)
 
 [1987](/AD-HOC/1987/) | [Divisibilidade Por 3](https://resources.beecrowd.com/repository/UOJ_1987.html)
