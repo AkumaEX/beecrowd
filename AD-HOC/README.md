@@ -218,6 +218,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2408](/AD-HOC/2408/) | [Vice-Campeão](https://www.beecrowd.com.br/repository/UOJ_2408.html)
 
+[2410](/AD-HOC/2410/) | [Frequencia na Aula](https://resources.beecrowd.com/repository/UOJ_2410.html)
+
 [2413](/AD-HOC/2413/) | [Busca na Internet](https://www.beecrowd.com.br/repository/UOJ_2413.html)
 
 [2414](/AD-HOC/2414/) | [Desafio do Maior Número](https://www.beecrowd.com.br/repository/UOJ_2414.html)
