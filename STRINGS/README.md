@@ -44,6 +44,8 @@ Palíndromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings
 
 [2157](/STRINGS/2157/) | [Sequência Espelho](https://www.beecrowd.com.br/repository/UOJ_2157.html)
 
+[2242](/STRINGS/2242/) | [Huaauhahhuahau](https://resources.beecrowd.com/repository/UOJ_2242.html)
+
 [2587](/STRINGS/2587/) | [Jequiti](https://resources.beecrowd.com/repository/UOJ_2587.html)
 
 [2694](/STRINGS/2694/) | [Problema com a Calculadora](https://resources.beecrowd.com/repository/UOJ_2694.html)
