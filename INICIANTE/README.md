@@ -131,3 +131,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1117](/INICIANTE/1117/) | [Validação de Nota](https://resources.beecrowd.com/repository/UOJ_1117.html)
 
 [1132](/INICIANTE/1132/) | [Múltiplos de 13](https://resources.beecrowd.com/repository/UOJ_1132.html)
+
+[1133](/INICIANTE/1133/) | [Resto da Divisão](https://resources.beecrowd.com/repository/UOJ_1133.html)
