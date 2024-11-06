@@ -90,6 +90,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [2839](/MATEMÁTICA/2839/) | [As Meias de Rangel](https://www.beecrowd.com.br/repository/UOJ_2839.html)
 
+[3004](/MATEMÁTICA/3004/) | [Envelopes](https://resources.beecrowd.com/repository/UOJ_3004.html)
+
 [3049](/MATEMÁTICA/3049/) | [Nota Cortada](https://www.beecrowd.com.br/repository/UOJ_3049.html)
 
 [3257](/MATEMÁTICA/3257/) | [Plantando Árvores](https://resources.beecrowd.com/repository/UOJ_3257.html)
