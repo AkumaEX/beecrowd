@@ -156,6 +156,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2116](/AD-HOC/2116/) | [Diversão dos Alunos](https://resources.beecrowd.com/repository/UOJ_2116.html)
 
+[2138](/AD-HOC/2138/) | [Dígito Mais Frequente](https://resources.beecrowd.com/repository/UOJ_2138.html)
+
 [2175](/AD-HOC/2175/) | [Qual o mais Rápido?](https://resources.beecrowd.com/repository/UOJ_2175.html)
 
 [2187](/AD-HOC/2187/) | [Bits Trocados](https://www.beecrowd.com.br/repository/UOJ_2187.html)
