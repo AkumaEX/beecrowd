@@ -24,6 +24,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1105](/AD-HOC/1105/) | [Sub-prime](https://resources.beecrowd.com/repository/UOJ_1105.html)
 
+[1107](/AD-HOC/1107/) | [Escultura à Laser](https://judge.beecrowd.com/pt/problems/view/1107)
+
 [1125](/AD-HOC/1125/) | [Fórmula 1](https://www.beecrowd.com.br/repository/UOJ_1125.html)
 
 [1129](/AD-HOC/1129/) | [Leitura Óptica](https://www.beecrowd.com.br/repository/UOJ_1129.html)
