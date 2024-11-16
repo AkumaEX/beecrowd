@@ -178,6 +178,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2297](/AD-HOC/2297/) | [Bafo](https://resources.beecrowd.com/repository/UOJ_2297.html)
 
+[2304](/AD-HOC/2304/) | [Banco Imobiliário](https://resources.beecrowd.com/repository/UOJ_2304.html)
+
 [2312](/AD-HOC/2312/) | [Quadro De Medalhas](https://resources.beecrowd.com/repository/UOJ_2312.html)
 
 [2315](/AD-HOC/2315/) | [Diferença Fácil Entre Datas](https://resources.beecrowd.com/repository/UOJ_2315.html)
