@@ -16,6 +16,8 @@ Filas, Pilhas, Ordenação, Mapas...
 
 [1244](/ESTRUTURAS/1244/) | [Ordenação por Tamanho](https://resources.beecrowd.com/repository/UOJ_1244.html)
 
+[1251](/ESTRUTURAS/1251/) | [Diga-me a Frequência](https://resources.beecrowd.com/repository/UOJ_1251.html)
+
 [1256](/ESTRUTURAS/1256/) | [Tabelas Hash](https://www.beecrowd.com.br/repository/UOJ_1256.html)
 
 [1258](/ESTRUTURAS/1258/) | [Camisetas](https://resources.beecrowd.com/repository/UOJ_1258.html)
