@@ -60,6 +60,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1641](/MATEMÁTICA/1641/) | [Restaurante e Pizzaria do Alfredo](https://resources.beecrowd.com/repository/UOJ_1641.html)
 
+[1760](/MATEMÁTICA/1760/) | [Floco de Neve de Koch](https://resources.beecrowd.com/repository/UOJ_1760.html)
+
 [1761](/MATEMÁTICA/1761/) | [Decoração Natalina](https://beecrowd.com.br/repository/UOJ_1761.html)
 
 [1795](/MATEMÁTICA/1795/) | [Triângulo Trinomial](https://resources.beecrowd.com/repository/UOJ_1795.html)
