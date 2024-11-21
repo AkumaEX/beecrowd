@@ -42,6 +42,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [1323](/MATEMÁTICA/1323/) | [Feynman](https://www.beecrowd.com.br/repository/UOJ_1323.html)
 
+[1393](/MATEMÁTICA/1393/) | [Lajotas Hexagonais](https://resources.beecrowd.com/repository/UOJ_1393.html)
+
 [1429](/MATEMÁTICA/1429/) | [Fatorial de Novo!](https://www.beecrowd.com.br/repository/UOJ_1429.html)
 
 [1436](/MATEMÁTICA/1436/) | [Jogo do Tijolo](https://resources.beecrowd.com/repository/UOJ_1436.html)
