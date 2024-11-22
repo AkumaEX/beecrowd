@@ -88,6 +88,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [2516](/MATEMÁTICA/2516/) | [Corrida](https://resources.beecrowd.com/repository/UOJ_2516.html)
 
+[2596](/MATEMÁTICA/2596/) | [Xenlonguinho](https://resources.beecrowd.com/repository/UOJ_2596_en.html)
+
 [2598](/MATEMÁTICA/2598/) | [Colocando Radares](https://resources.beecrowd.com/repository/UOJ_2598.html)
 
 [2667](/MATEMÁTICA/2667/) | [Jogo de Boca](https://resources.beecrowd.com/repository/UOJ_2667.html)
