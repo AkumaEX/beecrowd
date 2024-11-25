@@ -74,6 +74,8 @@ Sistemas Numéricos, Numeros Primos, BigInteger...
 
 [2084](/MATEMÁTICA/2084/) | [Eleições](https://resources.beecrowd.com/repository/UOJ_2084.html)
 
+[2149](/MATEMÁTICA/2149/) | [Sequência do Tio Phill Bonati](https://resources.beecrowd.com/repository/UOJ_2149.html)
+
 [2170](/MATEMÁTICA/2170/) | [Juros do Projeto](https://resources.beecrowd.com/repository/UOJ_2170.html)
 
 [2180](/MATEMÁTICA/2180/) | [Viagem à Marte na Velocidade de Primo](https://resources.beecrowd.com/repository/UOJ_2180.html)
