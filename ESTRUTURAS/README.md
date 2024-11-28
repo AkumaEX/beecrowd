@@ -56,6 +56,8 @@ Filas, Pilhas, Ordenação, Mapas...
 
 [2729](/ESTRUTURAS/2729/) | [Lista de Compras](https://resources.beecrowd.com/repository/UOJ_2729.html)
 
+[2958](/ESTRUTURAS/2958/) | [O Rolê Bad Vibes](https://resources.beecrowd.com/repository/UOJ_2958.html)
+
 [3160](/ESTRUTURAS/3160/) | [Amigos](https://resources.beecrowd.com/repository/UOJ_3160.html)
 
 [3171](/ESTRUTURAS/3171/) | [Cordão de Led](https://www.beecrowd.com.br/repository/UOJ_3171.html)
