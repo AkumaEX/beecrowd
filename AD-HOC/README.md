@@ -136,6 +136,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1893](/AD-HOC/1893/) | [Fases da Lua](https://resources.beecrowd.com/repository/UOJ_1893.html)
 
+[1895](/AD-HOC/1895/) | [Jogo do Limite](https://resources.beecrowd.com/repository/UOJ_1895.html)
+
 [1901](/AD-HOC/1901/) | [Borboletas](https://resources.beecrowd.com/repository/UOJ_1901.html)
 
 [1936](/AD-HOC/1936/) | [Fatorial](https://www.beecrowd.com.br/repository/UOJ_1936.html)
