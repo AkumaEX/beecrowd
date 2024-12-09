@@ -1,5 +1,5 @@
 def get_maze(n):
-    return [list(input()) for _ in range(n)]
+    return [input() for _ in range(n)]
 
 
 def get_max_food(n, maze):
