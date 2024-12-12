@@ -264,6 +264,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [2444](/AD-HOC/2444/) | [Volume da TV](https://resources.beecrowd.com/repository/UOJ_2444.html)
 
+[2451](/AD-HOC/2451/) | [PacMan](https://resources.beecrowd.com/repository/UOJ_2451.html)
+
 [2454](/AD-HOC/2454/) | [Flíper](https://www.beecrowd.com.br/repository/UOJ_2454.html)
 
 [2455](/AD-HOC/2455/) | [Gangorra](https://www.beecrowd.com.br/repository/UOJ_2455.html)
