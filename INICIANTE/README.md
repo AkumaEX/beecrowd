@@ -133,3 +133,5 @@ Problemas básicos para quem está iniciando na programação ...
 [1132](/INICIANTE/1132/) | [Múltiplos de 13](https://resources.beecrowd.com/repository/UOJ_1132.html)
 
 [1133](/INICIANTE/1133/) | [Resto da Divisão](https://resources.beecrowd.com/repository/UOJ_1133.html)
+
+[1134](/INICIANTE/1134/) | [Tipo de Combustível](https://resources.beecrowd.com/repository/UOJ_1134.html)
