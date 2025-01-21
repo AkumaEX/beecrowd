@@ -130,6 +130,8 @@ Problemas de Simulação, Datas e Ad-Hoc em geral...
 
 [1808](/AD-HOC/1808/) | [O Retorno do Rei](https://resources.beecrowd.com/repository/UOJ_1808.html)
 
+[1816](/AD-HOC/1816/) | [Vikings em Praga?](https://resources.beecrowd.com/repository/UOJ_1816.html)
+
 [1867](/AD-HOC/1867/) | [Maior Número de Um Algarismo](https://resources.beecrowd.com/repository/UOJ_1867.html)
 
 [1890](/AD-HOC/1890/) | [Emplacando os Tuk-tuks](https://resources.beecrowd.com/repository/UOJ_1890.html)
