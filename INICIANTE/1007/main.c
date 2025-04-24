@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int A, B, C, D, DIFERENCA;
-    scanf("%d%d%d%d", &A, &B, &C, &D);
-    DIFERENCA = A * B - C * D;
-    printf("DIFERENCA = %d\n", DIFERENCA);
+    int a, b, c, d;
+    scanf("%d%d%d%d", &a, &b, &c, &d);
+    printf("DIFERENCA = %d\n", a * b - c * d);
     return 0;
 }

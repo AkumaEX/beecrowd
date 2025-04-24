@@ -1,9 +1,9 @@
 import 'dart:io';
 
 void main() {
-  double A = double.parse(stdin.readLineSync()!);
-  double B = double.parse(stdin.readLineSync()!);
-  double C = double.parse(stdin.readLineSync()!);
-  double MEDIA = (A * 2 + B * 3 + C * 5) / 10;
-  print('MEDIA = ${MEDIA.toStringAsFixed(1)}');
+  double a = double.parse(stdin.readLineSync()!);
+  double b = double.parse(stdin.readLineSync()!);
+  double c = double.parse(stdin.readLineSync()!);
+  double media = (a * 2 + b * 3 + c * 5) / 10;
+  print('MEDIA = ${media.toStringAsFixed(1)}');
 }

@@ -1,4 +1,5 @@
-A = int(input())
-B = int(input())
-PROD = A * B
-print('PROD = %d' % PROD)
+a = int(input())
+b = int(input())
+prod = a * b
+print(f'PROD = {prod}')
+

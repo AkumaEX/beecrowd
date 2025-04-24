@@ -3,11 +3,11 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int A = scanner.nextInt();
-        int B = scanner.nextInt();
+        int a = scanner.nextInt();
+        int b = scanner.nextInt();
         scanner.close();
         
-        int PROD = A * B;
-        System.out.printf("PROD = %d\n", PROD);
+        int prod = a * b;
+        System.out.printf("PROD = %d\n", prod);
     }
 }

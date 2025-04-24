@@ -1,6 +1,5 @@
-A = int(input())
-B = int(input())
-C = int(input())
-D = int(input())
-DIFERENCA = A * B - C * D
-print('DIFERENCA = %d' % DIFERENCA)
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+print(f'DIFERENCA = {a * b - c * d}')

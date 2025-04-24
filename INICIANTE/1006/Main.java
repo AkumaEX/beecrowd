@@ -3,12 +3,12 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        double A = scanner.nextDouble();
-        double B = scanner.nextDouble();
-        double C = scanner.nextDouble();
+        double a = scanner.nextDouble();
+        double b = scanner.nextDouble();
+        double c = scanner.nextDouble();
         scanner.close();
 
-        double MEDIA = (A * 2 + B * 3 + C * 5) / 10;
-        System.out.printf("MEDIA = %.1f\n", MEDIA);
+        double media = (a * 2 + b * 3 + c * 5) / 10;
+        System.out.printf("MEDIA = %.1f\n", media);
     }
 }

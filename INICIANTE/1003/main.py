@@ -1,4 +1,4 @@
-A = int(input())
-B = int(input())
-SOMA = A + B
-print('SOMA = %d' % SOMA)
+a = int(input())
+b = int(input())
+soma = a + b
+print(f'SOMA = {soma}')

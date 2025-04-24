@@ -1,4 +1,4 @@
-A = gets.to_i
-B = gets.to_i
-PROD = A * B
-puts "PROD = #{PROD}"
+a = gets.to_i
+b = gets.to_i
+prod = a * b
+puts "PROD = #{prod}"

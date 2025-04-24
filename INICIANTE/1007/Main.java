@@ -3,13 +3,11 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int A = scanner.nextInt();
-        int B = scanner.nextInt();
-        int C = scanner.nextInt();
-        int D = scanner.nextInt();
+        int a = scanner.nextInt();
+        int b = scanner.nextInt();
+        int c = scanner.nextInt();
+        int d = scanner.nextInt();
         scanner.close();
-
-        int DIFERENCA = A * B - C * D;
-        System.out.printf("DIFERENCA = %d\n", DIFERENCA);
+        System.out.printf("DIFERENCA = %d\n", a * b - c * d);
     }
 }

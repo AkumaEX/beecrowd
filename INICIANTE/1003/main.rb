@@ -1,4 +1,4 @@
-A = gets.to_i
-B = gets.to_i
-SOMA = A + B
-puts "SOMA = #{SOMA}"
+a = gets.to_i
+b = gets.to_i
+soma = a + b
+puts "SOMA = #{soma}"
