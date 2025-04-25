@@ -1,20 +1,13 @@
-#include <math.h>
 #include <stdio.h>
 
 int main() {
-    double A, B, C, triangle, circle, trapeze, square, rectangle;
-    scanf("%lf %lf %lf", &A, &B, &C);
+    double a, b, c;
+    scanf("%lf %lf %lf", &a, &b, &c);
 
-    triangle = A * C / 2;
-    circle = 3.14159 * pow(C, 2);
-    trapeze = (A + B) * C / 2;
-    square = pow(B, 2);
-    rectangle = A * B;
-
-    printf("TRIANGULO: %.3lf\n", triangle);
-    printf("CIRCULO: %.3lf\n", circle);
-    printf("TRAPEZIO: %.3lf\n", trapeze);
-    printf("QUADRADO: %.3lf\n", square);
-    printf("RETANGULO: %.3lf\n", rectangle);
+    printf("TRIANGULO: %.3lf\n", a * c / 2);
+    printf("CIRCULO: %.3lf\n", 3.14159 * c * c);
+    printf("TRAPEZIO: %.3lf\n", (a + b) * c / 2);
+    printf("QUADRADO: %.3lf\n", b * b);
+    printf("RETANGULO: %.3lf\n", a * b);
     return 0;
 }
