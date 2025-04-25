@@ -11,8 +11,7 @@ public class Main {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
         int c = scanner.nextInt();
-        int greatest = maior(maior(a, b), c);
-        System.out.printf("%d eh o maior\n", greatest);
+        System.out.printf("%d eh o maior\n", maior(maior(a, b), c));
         scanner.close();
     }
 }

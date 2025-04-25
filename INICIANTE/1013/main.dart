@@ -5,10 +5,6 @@ int maior(int a, int b) {
 }
 
 void main() {
-  List<String> data = stdin.readLineSync()!.split(' ');
-  int a = int.parse(data[0]);
-  int b = int.parse(data[1]);
-  int c = int.parse(data[2]);
-  int greatest = maior(maior(a, b), c);
-  print('${greatest} eh o maior');
+  var [a, b, c] = stdin.readLineSync()!.split(' ').map(int.parse).toList();
+  print('${maior(maior(a, b), c)} eh o maior');
 }

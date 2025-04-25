@@ -6,9 +6,8 @@ int maior(int a, int b) {
 }
 
 int main() {
-    int a, b, c, greatest;
+    int a, b, c;
     scanf("%d %d %d", &a, &b, &c);
-    greatest = maior(maior(a, b), c);
-    printf("%d eh o maior\n", greatest);
+    printf("%d eh o maior\n", maior(maior(a, b), c));
     return 0;
 }
