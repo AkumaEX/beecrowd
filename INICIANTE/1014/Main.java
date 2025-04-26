@@ -5,8 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int x = scanner.nextInt();
         double y = scanner.nextDouble();
-        double consumption = x / y;
-        System.out.printf("%.3f km/l\n", consumption);
+        System.out.printf("%.3f km/l\n", x / y);
         scanner.close();
     }
 }

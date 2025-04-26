@@ -2,9 +2,8 @@
 
 int main() {
     int x;
-    double y, consumption;
+    double y;
     scanf("%d %lf", &x, &y);
-    consumption = x / y;
-    printf("%.3lf km/l\n", consumption);
+    printf("%.3lf km/l\n", x / y);
     return 0;
 }
