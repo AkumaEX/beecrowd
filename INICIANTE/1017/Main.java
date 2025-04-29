@@ -5,8 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         float t = scanner.nextFloat();
         float v = scanner.nextFloat();
-        float consumption = t * v / 12;
-        System.out.printf("%.3f\n", consumption);
+        System.out.printf("%.3f\n", t * v / 12);
         scanner.close();
     }
 }

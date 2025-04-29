@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int delta;
-    scanf("%d", &delta);
-    printf("%d minutos\n", delta * 2);
+    int distance;
+    scanf("%d", &distance);
+    printf("%d minutos\n", distance * 2);
     return 0;
 }

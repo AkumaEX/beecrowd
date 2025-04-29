@@ -1,4 +1,2 @@
-let input = require('fs').readFileSync('/dev/stdin', 'utf-8');
-let lines = input.split('\n');
-let delta = lines[0];
-console.log(`${delta * 2} minutos`);
+let distance = Number(require('fs').readFileSync('/dev/stdin', 'utf-8'));
+console.log(`${distance * 2} minutos`);

@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    float t, v, consumption;
+    float t, v;
     scanf("%f %f", &t, &v);
-    consumption = t * v / 12;
-    printf("%.3f\n", consumption);
+    printf("%.3f\n", t * v / 12);
     return 0;
 }

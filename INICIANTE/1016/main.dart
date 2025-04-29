@@ -1,6 +1,6 @@
 import 'dart:io';
 
 void main() {
-  int delta = int.parse(stdin.readLineSync()!);
-  print('${delta * 2} minutos');
+  int distance = int.parse(stdin.readLineSync()!);
+  print('${distance * 2} minutos');
 }

@@ -1,2 +1,2 @@
-delta = int(input())
-print(f'{delta * 2} minutos')
+distance = int(input())
+print(f'{distance * 2} minutos')
