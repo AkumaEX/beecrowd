@@ -7,7 +7,7 @@ public class Main {
         int b = scanner.nextInt();
         int c = scanner.nextInt();
         int d = scanner.nextInt();
-        scanner.close();
         System.out.printf("DIFERENCA = %d\n", a * b - c * d);
+        scanner.close();
     }
 }

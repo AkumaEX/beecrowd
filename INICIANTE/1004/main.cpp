@@ -2,10 +2,10 @@
 using namespace std;
 
 int main() {
-    int a, b, prod;
+    int a, b;
     cin >> a;
     cin >> b;
-    prod = a * b;
+    int prod = a * b;
     cout << "PROD = " << prod << endl;
     return 0;
 }

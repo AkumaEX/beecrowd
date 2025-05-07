@@ -1,8 +1,7 @@
 import 'dart:io';
 
 void main() {
-  double pi = 3.14159;
   double raio = double.parse(stdin.readLineSync()!);
-  double area = pi * raio * raio;
+  double area = raio * raio * 3.14159;
   print('A=${area.toStringAsFixed(4)}');
 }

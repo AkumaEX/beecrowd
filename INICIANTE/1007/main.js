@@ -1,8 +1,2 @@
-var input = require("fs").readFileSync("/dev/stdin", "utf8");
-var lines = input.split("\n");
-
-let a = Number.parseInt(lines[0]);
-let b = Number.parseInt(lines[1]);
-let c = Number.parseInt(lines[2]);
-let d = Number.parseInt(lines[3]);
+let [a, b, c, d] = require('fs').readFileSync('/dev/stdin', 'utf8').split('\n').map(Number);
 console.log(`DIFERENCA = ${a * b - c * d}`);

@@ -1,7 +1,3 @@
-var input = require("fs").readFileSync("/dev/stdin", "utf8");
-var lines = input.split("\n");
-
-let pi = 3.14159;
-let raio = Number.parseFloat(lines[0]);
-let area = pi * raio * raio;
+var raio = parseFloat(require("fs").readFileSync("/dev/stdin", "utf8"));
+let area = raio * raio * 3.14159;
 console.log(`A=${area.toFixed(4)}`);

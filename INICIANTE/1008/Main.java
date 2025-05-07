@@ -6,9 +6,8 @@ public class Main {
         int number = scanner.nextInt();
         int hours = scanner.nextInt();
         double wage = scanner.nextDouble();
-        scanner.close();
-
         System.out.printf("NUMBER = %d\n", number);
         System.out.printf("SALARY = U$ %.2f\n", hours * wage);
+        scanner.close();
     }
 }

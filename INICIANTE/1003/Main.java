@@ -5,9 +5,8 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         int b = scanner.nextInt();
-        scanner.close();
-        
         int soma = a + b;
         System.out.printf("SOMA = %d\n", soma);
+        scanner.close();
     }
 }

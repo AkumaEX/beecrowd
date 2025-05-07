@@ -3,9 +3,9 @@
 using namespace std;
 
 int main() {
-    double area, raio, pi = 3.14159;
+    double raio;
     cin >> raio;
-    area = pi * raio * raio;
+    double area = raio * raio * 3.14159;
     cout << "A=" << fixed << setprecision(4) << area << endl;
     return 0;
 }

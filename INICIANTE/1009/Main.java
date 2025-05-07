@@ -6,9 +6,7 @@ public class Main {
         scanner.next();
         Double salary = scanner.nextDouble();
         Double sales = scanner.nextDouble();
+        System.out.printf("TOTAL = R$ %.2f\n", salary + sales * 0.15);
         scanner.close();
-
-        Double total = salary + sales * 0.15;
-        System.out.printf("TOTAL = R$ %.2f\n", total);
     }
 }

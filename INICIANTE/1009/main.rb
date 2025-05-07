@@ -1,5 +1,4 @@
-name = gets
+gets
 salary = gets.to_f
 sales = gets.to_f
-total = salary + sales * 0.15
-puts format('TOTAL = R$ %.2f', total)
+puts "TOTAL = R$ %.2f" % (salary + sales * 0.15)

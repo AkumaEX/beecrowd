@@ -1,8 +1,4 @@
-var input = require("fs").readFileSync("/dev/stdin", "utf8");
-var lines = input.split("\n");
-
-let name = lines[0];
+let lines = require('fs').readFileSync('/dev/stdin', 'utf8').split('\n');
 let salary = Number.parseFloat(lines[1]);
 let sales = Number.parseFloat(lines[2]);
-let total = salary + sales * 0.15;
-console.log(`TOTAL = R$ ${total.toFixed(2)}`);
+console.log(`TOTAL = R$ ${(salary + sales * 0.15).toFixed(2)}`);

@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    double area, raio, pi = 3.14159;
+    double raio;
     scanf("%lf", &raio);
-    area = pi * raio * raio;
+    double area = raio * raio * 3.14159;
     printf("A=%.4lf\n", area);
     return 0;
 }

@@ -1,4 +1,4 @@
-let n = parseInt(require('fs').readFileSync('/dev/stdin', 'utf-8').trim());
+let n = parseInt(require('fs').readFileSync('/dev/stdin', 'utf-8'));
 let hours = parseInt(n / 3600);
 n = n % 3600;
 let minutes = parseInt(n / 60);

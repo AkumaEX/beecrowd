@@ -4,9 +4,9 @@
 using namespace std;
 
 int main() {
-    double r, volume;
+    double r;
     cin >> r;
-    volume = (4.0 / 3) * 3.14159 * pow(r, 3);
+    double volume = (4.0 / 3) * 3.14159 * pow(r, 3);
     cout << "VOLUME = " << fixed << setprecision(3) << volume << endl;
     return 0;
 }

@@ -2,9 +2,8 @@
 
 int main() {
     char name[256];
-    double salary, sales, total;
-    scanf("%s%lf%lf", &name, &salary, &sales);
-    total = salary + sales * 0.15;
-    printf("TOTAL = R$ %.2lf\n", total);
+    double salary, sales;
+    scanf("%s %lf %lf", &name, &salary, &sales);
+    printf("TOTAL = R$ %.2lf\n", salary + sales * 0.15);
     return 0;
 }
