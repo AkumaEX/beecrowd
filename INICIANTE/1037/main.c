@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-void printInterval(double value) {
+int main() {
+    double value;
+    scanf("%lf", &value);
     if (value < 0 || value > 100)
         printf("Fora de intervalo\n");
     else if (value > 75)
@@ -11,11 +13,5 @@ void printInterval(double value) {
         printf("Intervalo (25,50]\n");
     else
         printf("Intervalo [0,25]\n");
-}
-
-int main() {
-    double value;
-    scanf("%lf", &value);
-    printInterval(value);
     return 0;
 }

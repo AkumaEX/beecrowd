@@ -7,9 +7,7 @@ int maior(int a, int b) {
 
 int main() {
     int a, b, c;
-    cin >> a;
-    cin >> b;
-    cin >> c;
+    cin >> a >> b >> c;
     cout << maior(maior(a, b), c) << " eh o maior" << endl;
     return 0;
 }

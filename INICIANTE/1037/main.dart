@@ -1,6 +1,7 @@
 import 'dart:io';
 
-void printInterval(double value) {
+void main() {
+  double value = double.parse(stdin.readLineSync()!);
   if (value < 0 || value > 100)
     print('Fora de intervalo');
   else if (value > 75)
@@ -11,9 +12,4 @@ void printInterval(double value) {
     print('Intervalo (25,50]');
   else
     print('Intervalo [0,25]');
-}
-
-void main() {
-  double value = double.parse(stdin.readLineSync()!);
-  printInterval(value);
 }
