@@ -1,6 +1,6 @@
 def formatted_print(sequence):
-    for num in sequence:
-        print(num)
+    for value in sequence:
+        print(value)
 
 
 original = list(map(int, input().split()))

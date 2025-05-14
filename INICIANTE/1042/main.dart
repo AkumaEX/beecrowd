@@ -1,12 +1,13 @@
 import 'dart:io';
 
 void formattedPrint(List<int> sequence) {
-  for (int num in sequence) print(num);
+  for (int value in sequence) print(value);
 }
 
 void main() {
   List<int> original = stdin.readLineSync()!.split(' ').map(int.parse).toList();
-  formattedPrint([...original]..sort((a, b) => a - b));
+  List<int> sorted = [...original]..sort((a, b) => a - b);
+  formattedPrint(sorted);
   print('');
   formattedPrint(original);
 }

@@ -1,10 +1,9 @@
 function formattedPrint(sequence) {
-    for (let num of sequence) console.log(num);
+    for (let value of sequence) console.log(value);
 }
 
-
-let lines = require('fs').readFileSync('/dev/stdin', 'utf-8').trim().split('\n');
-let original = lines[0].split(' ').map(Number);
-formattedPrint([...original].sort((a, b) => a - b));
+let original = require('fs').readFileSync('/dev/stdin', 'utf-8').split(' ').map(Number);
+let sorted = [...original].sort((a, b) => a - b);
+formattedPrint(sorted);
 console.log();
 formattedPrint(original);

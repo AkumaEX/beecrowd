@@ -1,8 +1,6 @@
-# frozen_string_literal:true
-
 def formatted_print(sequence)
-  sequence.each do |num|
-    puts num
+  sequence.each do |value|
+    puts value
   end
 end
 
