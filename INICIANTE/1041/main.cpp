@@ -1,6 +1,7 @@
-#include <stdio.h>
+#include <iostream>
+using namespace std;
 
-char *quadrant(float x, float y) {
+string quadrant(float x, float y) {
     if (x == 0 && y == 0) return "Origem";
     if (x == 0) return "Eixo Y";
     if (y == 0) return "Eixo X";
@@ -10,7 +11,7 @@ char *quadrant(float x, float y) {
 
 int main() {
     float x, y;
-    scanf("%f %f", &x, &y);
-    printf("%s\n", quadrant(x, y));
+    cin >> x >> y;
+    cout << quadrant(x, y) << endl;
     return 0;
 }
