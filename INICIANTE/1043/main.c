@@ -1,14 +1,11 @@
 #include <stdbool.h>
 #include <stdio.h>
 
-bool isTriangle(double a, double b, double c) {
-    return a != b + c && b != a + c && c != a + b;
-}
-
 int main() {
-    double a, b, c;
-    scanf("%lf %lf %lf", &a, &b, &c);
-    if (isTriangle(a, b, c))
+    float a, b, c;
+    scanf("%f %f %f", &a, &b, &c);
+    bool isTriangle = a + b > c && a + c > b && b + c > a;
+    if (isTriangle)
         printf("Perimetro = %.1lf\n", a + b + c);
     else
         printf("Area = %.1lf\n", (a + b) * c / 2);
